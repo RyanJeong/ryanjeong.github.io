@@ -1,0 +1,9 @@
+services:
+  site:
+    build: .
+    ports:
+      - "4444:4444"
+    volumes:
+      - .:/site
+    # Live preview with hot reload at http://localhost:4444
+    command: ["quarto", "preview", "--host", "0.0.0.0", "--port", "4444", "--no-browser"]

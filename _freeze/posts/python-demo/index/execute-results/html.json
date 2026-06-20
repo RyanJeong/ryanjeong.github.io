@@ -1,0 +1,12 @@
+{
+  "hash": "59a1fd1000ce4c16d00ce01083965712",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Python Code and Its Output, Together\"\ndate: 2026-06-20\ncategories: [python, math]\ndescription: \"Write Python in a post; its results render inline at build time.\"\n---\n\n\nA code block runs when the site is built, and its output is baked into the page.\nReaders see the source and the result side by side -- no server, no execution in\ntheir browser.\n\n## A computed value\n\n::: {#d61c160e .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\nx = np.linspace(0, 2 * np.pi, 5)\nnp.round(np.sin(x), 4)\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\narray([ 0.,  1.,  0., -1., -0.])\n```\n:::\n:::\n\n\n## A chart\n\nThe same setup produces a plot. The figure below is saved as a static image at\nbuild time.\n\n::: {#cell-fig-sine .cell execution_count=2}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\n\nt = np.linspace(0, 2 * np.pi, 200)\nfig, ax = plt.subplots(figsize=(6, 3.2))\nax.plot(t, np.sin(t))\nax.set_xlabel(\"t\")\nax.set_ylabel(\"sin(t)\")\nax.grid(True, alpha=0.3)\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![One period of the sine function.](index_files/figure-html/fig-sine-output-1.png){#fig-sine}\n:::\n:::\n\n\nBecause results are pre-rendered, pages stay fast and the site remains fully\nstatic.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
