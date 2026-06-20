@@ -1,0 +1,16 @@
+# Quarto build output and scratch (regenerated on every render/preview)
+/_site/
+/.quarto/
+*.quarto_ipynb
+.ipynb_checkpoints/
+
+# NOTE: _freeze/ is intentionally NOT ignored -- it caches Python execution
+# results so CI builds are reproducible. Commit it.
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
