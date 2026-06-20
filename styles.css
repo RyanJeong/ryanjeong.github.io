@@ -1,0 +1,15 @@
+/* Minimal light-theme tweaks on top of the cosmo theme. */
+
+.navbar {
+  border-bottom: 1px solid #e9ecef;
+}
+
+/* Slightly tighter content column for comfortable reading. */
+main.content {
+  max-width: 52rem;
+}
+
+/* Soften code-block background. */
+div.sourceCode {
+  border-radius: 6px;
+}

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  # Only render site sources; keep CLAUDE.md / README.md out of the site.
+  render:
+    - "*.qmd"
+    - "posts/"
+
+website:
+  title: "Ryan Munseong Jeong"
+  description: "Notes on programming, math, and things worth writing down."
+  site-url: "https://ryanjeong.github.io"
+  favicon: favicon.ico
+  search:
+    location: navbar
+    type: textbox
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/RyanJeong
+        aria-label: GitHub
+  page-footer:
+    center: "Copyright 2026, Ryan Munseong Jeong"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github

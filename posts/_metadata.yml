@@ -1,0 +1,11 @@
+# Defaults applied to every post under posts/
+freeze: auto # execute code only when the source changes; cache results in _freeze/
+
+title-block-banner: false
+toc: true
+toc-depth: 3
+
+# Execute Python at render time; bake outputs (charts, values) into the HTML.
+execute:
+  echo: true # show the source code alongside its output
+  warning: false

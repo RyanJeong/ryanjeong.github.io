@@ -1,0 +1,23 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/RyanJeong
+    - icon: envelope
+      text: Email
+      href: mailto:ryan.m.jeong@hotmail.com
+---
+
+I am a developer. My main programming language is C, and I also work in C++ and
+Go. This site is where I keep notes on programming, math, and things worth
+writing down.
+
+### Education
+
+- (2019) M.S. in Computer Engineering, Daejin University.
+- (2017) B.S. in Computer Engineering, Daejin University.
