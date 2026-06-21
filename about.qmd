@@ -1,6 +1,7 @@
 ---
 title: "About"
 image: profile.jpg
+toc: false
 about:
   template: trestles
   image-shape: round
@@ -13,11 +14,24 @@ about:
       href: mailto:ryan.m.jeong@hotmail.com
 ---
 
-I am a developer. My main programming language is C, and I also work in C++ and
-Go. This site is where I keep notes on programming, math, and things worth
-writing down.
+I'm a developer. My primary language is C, and I also work comfortably in C++ and Python. This site is where I keep notes on programming, math, and anything else worth writing down.
 
-### Education
+## Education
 
-- (2019) M.S. in Computer Engineering, Daejin University.
-- (2017) B.S. in Computer Engineering, Daejin University.
+- **M.S. in Computer Engineering**, Daejin University --- 2019
+- **B.S. in Computer Engineering**, Daejin University --- 2017
+
+## Experience
+
+- **Researcher**, MSOL Edu. --- Mar 2019 -- Dec 2020. Blockchain research.
+- **Developer**, Cochl Inc. --- Oct 2021 -- present. SDK development.
+
+## Teaching
+
+Courses taught at Daejin University:
+
+- **Introduction to Computer Programming** --- Spring 2020--2026
+- **Object-Oriented Programming** --- Fall 2021--2025
+- **Computer Security and Application** --- Fall 2020
+- **Introduction to Computer Engineering** --- Spring 2026
+- **Micro Embedded Programming** --- Fall 2026
