@@ -1,0 +1,166 @@
+---
+title: "부정문"
+date: 2019-10-15
+categories: [English, Grammar]
+description: "확실하게 긍정이 아닌 문장(단 1%라도 아니면 부정)"
+---
+
+## 기본 규칙
+### 동사 외에 다른 동사가 있을 경우
+* be동사, 완료형의 have, 기타 조동사들 뒤에 not 삽입
+    * He [is not]{.underline} leaving.
+    * I [have not]{.underline} seen him yet.
+    * Ryan [can not]{.underline} swim.
+
+### 일반동사만 있을 경우
+* do의 도움을 받은 다음 not 삽입
+* do는 일종의 조동사이므로, 뒤의 일반동사는 원형이어야 함
+    * I [do not]{.underline} like him.
+    * He [does not]{.underline} live here.
+    * I [did not]{.underline} like him.
+
+## 부정 명령문
+* "do not[don't]"
+* Don't 보다는 Do not으로 풀어서 쓰는 것이 어감이 더 강함
+    * Don't do that again.
+    * Don't worry. I'll look after you.
+    * Do not lean out of the window.
+
+## 다른 부정어구들
+* He's [not]{.underline} at home.
+* He's [never]{.underline} at home. (강한 부정의 어감, **절대로** ~하지 않다)
+* He's [seldom[rarely / hardly]]{.underline} ever at home. (거의 ~하지 않다)
+
+* He [doesn't]{.underline} work.
+* He [never]{.underline} works.
+* He [seldom[rarely / hardly]]{.underline} ever works.
+
+## 부정문의 부가의문문
+* 긍정문에서는 부정으로, 부정문에서는 긍정으로
+    * You [don't]{.underline} work on Sundays, [do you]{.underline}?
+    * You [seldom]{.underline} work on Saturday, [do you]{.underline}?
+
+## 부정의문문
+### 이미 답을 예상하고 묻는 경우
+* 형태는 의문문이지만 의미는 일반 평서문과 같음
+    * [Didn't you]{.underline} go to China to study? Hoh did you like it?
+    * [Isn't it]{.underline} a lovely day!
+        * Yes라고 대답할 것이라 기대
+    * [Don't you]{.underline} feel well?
+        * No라고 대답할 것이라 기대
+
+### 초대나 제안
+* 간접적인 표현을 쓰면 제안을 거절하는 입장에서도 편해짐
+* 상대를 배려한 공손한 표현 중 하나
+    * [Won't you]{.underline} come over here?
+    * [Why don't you]{.underline} play with us?
+
+### 불평 혹은 마음에 안 들 때
+* [Can't you just]{.underline} give me a break?
+* [Don't you ever]{.underline} listen to what I say?
+
+### 부정의문문의 대답
+* 내가 하려는 문장이 긍정이면 Yes, 부정이면 No
+    * A: Aren't you going out?
+    * B: No, I'm not.
+
+    * A: Didn't he look irritated?
+    * B: Yes, he did.
+
+## 명사 부정
+* 명사 앞에 no 삽입
+* not any, not a[an]의 뜻을 가짐
+* no가 들어가는 문장이 not any보다는 부정의 뉘앙스가 조금 더 강함
+    * There [aren't any]{.underline} buses after midnight.
+    * **=** There [are no]{.underline} buses after midnight.
+    * I'm [not an]{.underline} expert.
+    * **=** I'm no expert.
+
+## some vs. any
+* 부정: 확실하게 긍정이 아닌 경우 (**단 1%라도 아니면 부정**)
+* some이나 some 계열의 단어들은 "확실이 ~ 이다"라는 뉘앙스를 갖는 문장에 등장
+* 그렇지 않은 경우에는 any나 any 계열의 단어가 등장
+    * [Somebody]{.underline} called.
+    * Did [anybody]{.underline} call?
+    * I've bought you [something]{.underline}.
+    * I haven't bought you [anything]{.underline}.
+    * Let me know [if]{.underline} you have [any]{.underline} trouble.
+    * Please forget that I ever told you [anything]{.underline} about it.
+    * I forgot to bring [any]{.underline} bread.
+    * We get there without [any]{.underline} trouble.
+        * without
+    * Did you say [something]{.underline}?
+    * Would you like [some]{.underline} more?
+        * 더 먹으라는 권유
+    * Have you brought [some]{.underline} water?
+        * 물 가지고 왔지?
+    * Have you brought [any]{.underline} water?
+        * 물 가지고 왔니?
+
+## 부정문에 어울리는 단어 & 표현
+### budge
+* "조금 움직이다, 움직이게 하다"
+* 부정적 의미를 내포하는 문장 + budge: "꿈쩍도 안 해"
+    * He tried to move the rock, but it [wouldn't budge]{.underline}.
+    * He [refused to budge]{.underline} an inch.
+
+### at all
+* "전혀"
+* 부정적 의미를 내포하는 문장 + at all: "전혀 ~이 아니다"
+    * I don't agree with you [at all]{.underline}.
+
+    * 조금이라도[정말로], 동사를 강조하는 표현
+        * If you trust him [at all]{.underline}, just let him do it.
+        * Do you know how to get there [at all]{.underline}?
+
+### can't seem to
+* "도저히 ~가 안 된다"
+    * I [can't seem to]{.underline} find my bag.
+    * I [can't seem to]{.underline} get to sleep at night.
+    * I just [couldn't seem to]{.underline} get it done in time.
+
+### far
+* 100% 긍정의 어감을 주는 문장에는 잘 사용하지 않는 단어
+    * How [far]{.underline} did he go?
+    * He went too [far]{.underline}. It will take a lot longer for him to get back.
+        * too: 부정의 늬앙스
+    * A: Does that mean that you don't really like him?
+    * B: No, I wouldn't go that [far]{.underline}. I'd just say he isn't a good friend.
+
+* 100% 긍정문에서 "멀리"라는 말을 쓰고자 할 경우:
+    * We walked [a long way]{.underline}.
+    * It's [a long way]{.underline} from here.
+
+### "하나도 ~하지 않다"
+* '동사 + a + 명사'
+
+#### lift a finger / raise a finger
+* "도와주려 하다"
+* 부정적 의미를 내포하는 문장에서는 "손가락 하나 까딱하지 않는다"
+    * How come you never [raise a finger]{.underline} to help your wife with the baby?
+        * never + raise a finger
+    * The old man was the only one who [lifted a finger]{.underline} to help them.
+        * only + lift a finger
+
+#### do a thing
+* "어떤 한 가지를 하다"
+* 부정적 의미를 내포하는 문장 + do a thing: "하나도 하지 않았다"
+    * I didn't [do a thing]{.underline} against your order.
+    * **=** I didn't [do a damn thing thing]{.underline} against your order. (강조)
+
+#### give a damn
+* "신경쓰다"
+* 부정적 의미를 내포하는 문장 + give a damn: "신경 안 써(**=** I don't care)
+    * I don't [give a damn]{.underline} what he says.
+    * **=** I [don't care]{.underline} what he says.
+
+#### drink a drop
+* "한 방울 마셨다"
+* 부정적 의미를 내포하는 문장 + drink a drop: "한 방울도 안 마셨다"
+    * You're saying I'm driving drunk. OK, I went to a party, but didn't [drink a drop]{.underline} of anything.
+    * Water Water Everywhere, But Not [a Drop to Drink]{.underline}.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

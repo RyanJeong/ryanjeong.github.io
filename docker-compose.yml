@@ -5,5 +5,8 @@ services:
       - "4444:4444"
     volumes:
       - .:/site
-    # Live preview with hot reload at http://localhost:4444
-    command: ["quarto", "preview", "--host", "0.0.0.0", "--port", "4444", "--no-browser"]
+    # Live preview with hot reload at http://localhost:4444.
+    # Clear any stale preview lock first: a prior container that exited uncleanly
+    # (e.g. Ctrl-C) leaves a .quarto/preview registration that otherwise makes
+    # Quarto try to kill a dead PID and crash with exit code 1.
+    command: ["sh", "-c", "rm -rf .quarto/preview && exec quarto preview --host 0.0.0.0 --port 4444 --no-browser"]

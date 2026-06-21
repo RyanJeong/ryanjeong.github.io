@@ -1,0 +1,51 @@
+---
+title: "복합시제(현재진행)"
+date: 2019-10-02
+categories: [English, Grammar]
+description: "지금 현재 벌어지고 있는 동작"
+---
+
+## '지금' 그리고 '변화'
+* 현재진행: **지금 현재 벌어지고 있는 동작**
+    * Please be quite. I'[m working]{.underline}.
+    * Ryan [is writing]{.underline} a letter.
+    * The phone [is ringing]{.underline}.
+
+## 단순현재 vs. 현재진행 
+* **permanent vs. temporary**
+    * A: You [live]{.underline} in Seoul, don't you?
+    * B: I'[m living]{.underline} with my parents for the moment.     
+
+    * A: The river [flows]{.underline} into the Indian Ocean.
+    * B: The river [is flowing]{.underline} very fast after last night's rain.
+
+    * I [live]{.underline} in Seoul, but now I'[m living]{.underline} with my brother in Busan.
+
+    * He [is]{.underline} very nice to me.
+    * Why [are]{.underline} you [being]{.underline} so nice to me? 
+
+    * I [see]{.underline} nothing over there.
+    * I'[m seeing]{.underline} Ryan tomorrow.
+
+    * When Ryan comes, I [always meet]{.underline} him at the station.
+    * I'[m always meeting]{.underline} Ryan at the station.
+
+* 현재진행이 단순현재보다 더 *가볍게 표현한다*는 느낌 (**informal**)
+    * I'[m loving]{.underline} your hair today.
+
+## 미래 표현
+* I'[m seeing]{.underline} Ryan tomorrow. 
+
+## always
+* 생각보다 **자주** 어떤 일이 발생할 때
+    * I'[m always losing]{.underline} my keys.
+    * You'[re always complaining]{.underline} when things don't go your way.
+    * I like him a lot. He [is always giving]{.underline} me advice and helping to improve my skills.
+
+## 공손한 표현 (ii)
+* I'[m hoping]{.underline} that you can give me some advice.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

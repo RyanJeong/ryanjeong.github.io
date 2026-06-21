@@ -1,0 +1,231 @@
+---
+title: "명사(CN & UN)"
+date: 2019-11-01
+categories: [English, Grammar]
+description: "영어의 명사는 셀 수 있는 명사(Countable Noun)과 셀 수 없는 명사(Uncountable Noun)로 구분"
+---
+
+## CN & UN의 기준
+* UN은 뭔가 하나의 '덩어리' 느낌
+    * Mass Noun
+    1. 여러 명사를 원소로 포함하는 덩치가 큰 명사는 셀 수 없음 (침대, 소파, 의자 등을 포함하고 있는 furniture)
+    2. 액체, 기체, 고체 등은 셀 수 없음
+        * 덩어리 자체로는 아무 것도 안 되기에, 그걸 세기 위해서는 뭔가 단위를 붙여야 함
+            * water → a cup of water
+    3. 눈에 보이지 않는 명사들은 보통 셀 수 없음 (사랑, 겸손, 친절, ...)
+* CN은 '그 덩어리를 나눈 여러 개의 조각' 느낌
+
+### 관사
+* 부정관사 a
+    * '하나'를 의미
+    * 관사 a가 나온 명사는 CN
+
+* few(many) / little(much)
+    * few, many: CN
+    * little, much: UN
+
+* 복수형이 아닌 명사 앞에 a도 없고 아무 것도 없다면, 그 명사는 UN으로 사용됨
+    * CN이 복수형도 아닌데 앞에 아무것도 없으면 **이상함**
+    * [Power]{.underline} corrupts and absolute power corrupts absolutely.
+        * Power 앞에 아무것도 없으니 UN
+    * He was [a power]{.underline} in the music business.
+        * 부정관사 a가 사용됐으므로 CN
+
+* 정관사 the
+    * 셈 또는 수와 관련 없음
+    * **명사의 정체**와 관련 있음
+    * 대화하는 두 사람 모두 어떤 명사인지 알고 있을 때 명사 앞에 the가 사용됨
+        * I remember [the advice]{.underline} he gave to me.
+            * UN으로 쓰이는 advice에 the가 사용되면, 일반적인 충고가 아닌 '그 사람이 내게 해준 충고' 쪽으로 의미가 제한됨
+        * I really enjoyed [the book]{.underline} you gave to me.
+            * CN으로 쓰이는 book에 the가 사용되면, 일반적인 책이 아닌 '대화하는 두 사람이 알고 있는 특정 책' 쪽으로 의미가 좁혀짐
+
+* 무관사
+    * 앞에 아무 것도 없이 명사만 오는 경우
+    * 어떤 명사의 일반적인, 혹은 전체적인 성질을 나타냄
+    * 명사가 단수형이면 UN, 복수형이면 CN
+        * [Power]{.underline} corrupts and absolute [power]{.underline} corrupts absolutely.
+        * Do you like [flowers]{.underline}?
+
+| 명사 | 부정관사 a | 정관사 the | 무관사 |
+| ---- | ---------- | ---------- | ------ |
+| CN   | O          | O          | 복수형 |
+| UN   | X          | O          | 단수형 |
+
+## 셀 수 있다가도 없다가도
+### 갈아버린 토마토
+* A: I bought ten tomatoes on my way home. (CN)
+* B: I should add a little more tomato. (UN)
+
+### 액체, 기체, 고체 등은 대부분 UN
+* How much [oxygen]{.underline} is in the air?
+
+* [Milk]{.underline} does a body good.
+    * beer, coffee, milk, tea, water, wine, yogurt, ...
+* We sat, talked and split [two pitchers]{.underline} of beer.
+    * 액체 상태에서는 셀 수 없지만, 셈의 '단위'를 붙이면 셀 수 있음
+* He took [another gulp]{.underline} of beer.
+* I took [a sip]{.underline} of whisky and set down the glass.
+* Let's talk over [a cup]{.underline} of coffee.
+* How much is [a carton]{.underline} of milk?
+* Love is getting someone [a glass]{.underline} of water in the middle of the night.
+
+* 단위를 일반적으로 서로 알 수 있는 상황에서는 UN의 경우에도 CN 취급을 하는 것이 일반적임
+    * How [many coffees]{.underline} for this table, sir?
+        * How many cups of coffee ~
+    * How [many sugars]{.underline} do you take?
+    * I'd like [two coffees]{.underline} to go, please.
+    * I need [a beer]{.underline}. / [Two beers]{.underline}, please.
+    * Consumers Quench Thirst with a Flood of Bottled [Waters]{.underline}.
+        * **A lot of singular events are countable, like storms, blizzards, avalanches, mudslides, hurricanes, tornadoes, and earthquakes. They are often events which people wish to be over soon. Calm weather does not get as many countable nouns**.
+        * a bottled water (특정 생수 브랜드)
+        * I do prefer some [waters]{.underline} over others.
+    * I gave two pints of blood last year.
+
+### 고유명사
+* UN, 대문자로 시작
+* 고유명사가 여러 개 있으면?
+    * Talks between officials from the [two Koreas]{.underline} are underway on Cheju Island.
+    * He bought [a Mercedes Benz]{.underline} yesterday.
+    * Is it [a Picasso]{.underline}?
+    * There are [three Kennedys]{.underline} in Congress.
+    * Marilyn & [the Kennedys]{.underline} raises three questions.
+        * Kennedys家
+
+### 찢었더니 두 장?
+* 재료는 UN, 재료로 만든 제품은 CN
+    * paper: 종이(UN), 신문(CN)
+    * iron: 철(UN), 다리미(CN)
+    * ice: 물이 얼어 고체가 된 얼음(UN), 물을 얼음통에 담아 냉장고에 넣어 얼린 얼음(CN)
+    * glass: 유리(UN), 유리잔 또는 안경(CN)
+    * rubber: 고무(UN), 콘돔(CN)
+
+    * A: I need some [paper]{.underline}. (UN)
+    * B: I was going out to buy [a paper]{.underline}. (CN)
+
+    * A: Are you saying that it is made of [glass]{.underline}? (UN)
+    * B: Would you like [a glass]{.underline} of water? (CN)
+
+    * A: Do you have any [coffee]{.underline}? (UN)
+    * B: Two [coffees]{.underline}, please. (CN)
+
+* 신문 vs. 종이
+    * 종이를 반으로 쭉 찢으면 두 장이 되고, 그 두 장을 들고 또 찢으면 네 장이 됨
+        * '종이 한 장'이 네 장으로 되었을 때, 최초의 종이 한 장을 과연 '한 장(a paper)'이라고 할 수 있는가?
+        * 종이 한 장(재료), 종이 네 장(제품)
+        * a piece[sheet / ream] of paper, two papers, ...
+        * a piece of chalk, chalks, ...
+
+### 돈, 왜 못 셀까?
+* 집합명사
+    * money
+        * money라는 틀 안에는 동전, 지폐, 수표 등 여러 형태가 포함되어 있음
+        * 우리가 실제로 세는 것은, money라는 틀 안에 들어 있는 동전, 지폐, 수표 등임
+        
+    * furniture
+        * table, chair, bed, ... 
+
+    * equipment
+        * printer, scanner, hard drive, ... (computer)
+        * amp, speaker, CD player, ... (audio)
+
+        * For farm machinery manufacturers, it's a chance to sell new equipment.
+
+    * baggage
+        * suitcase, bag, ...
+
+    * software
+        * word processor, program, application, ...
+        
+        * The amount of space needed depends on how much software you plan to install.
+
+    * -ware (UN)
+        * 어떤 용도로 사용되거나 특정 재료로 만든 것**들**
+        * software, hardward, kitchenware, silverware, ...
+
+    * underwear (undies)
+        * How many runners wear underwear under their running shorts?
+        * I'm going to take a change[pair / set] of underwear just in case.
+
+    * homework
+        * work (a work of art)
+            * paperwork
+
+        * How much homeowrk is too much homework?
+        * All this paperwork is killing me.
+
+    * mail
+        * mail (UN)
+            * letters, packages, parcels, ...
+        * e-mail (CN)
+            * Send me an email at ryan.m.jeong@hotmail.com
+            * **=** Send me a mail at ryan.m.jeong@hotmail.com
+
+            * Mail me at ryan.m.jeong@hotmail.com
+    
+        * 오늘날 mail CN, UN 둘 다 사용
+            * You've got mail.
+    
+### 추상 vs. 구체
+* [Success]{.underline} is in the eyes of the beholder.
+* [Success]{.underline} is when you look forward to going to work AND you look forward to going home.
+* The movie was [a success]{.underline}.
+
+* It was a big[huge / great / phenomenal] success.
+
+* The fear of failure is worse than [failure]{.underline} itself. 
+* He is [a total failure]{.underline}.
+
+* In China, the WWII atrocities have long been [a national nightmare]{.underline}.
+
+* It's [time]{.underline} to hit the road again.
+* We don't need to hurry - there's plenty of [time]{.underline}.
+* [Time]{.underline} is on our side.
+* There was [a time]{.underline} when I felt I was on top of the world.
+    * occation
+* Have [a good time]{.underline}.
+    * 추상명사 앞에 형용사가 오면 범위가 확 줄어듦(구체적인 표현)
+
+* They want someone with [experience]{.underline} for this job.
+    * 일반적인 경험
+* I had a [strange experience]{.underline} the other day.
+    * 며칠 전 한 경험(구체적)
+    * strange가 experience의 범위를 줄임
+
+* A: As we all know, [wine]{.underline} is made from grapes.
+    * wine (1950 wine, excellent wine, terrible wine, ...)
+* B: The company produces [an excellent wine]{.underline}.
+    * 여러 wine 중 excellent wine
+    * 구체적으로 표현
+
+* [A good education]{.underline} is expensive.
+* He has [a good knowledge]{.underline} of English.
+* She has always had [a deep distrust]{.underline} of strangers.
+* You've been [a great help]{.underline}.
+* I wish you [a Merry Christmas]{.underline}.
+
+## family
+* A: His family [is]{.underline} a large one. ('가족 전체'의 개념)
+* B: His family [are]{.underline} all early risers. ('가족 구성원 개개인'의 개념, 영국영어)
+    * members of his family (미국영어)
+    * his family members (미국영어)
+
+* The situation now is that [Manchester United have]{.underline} officially asked about Park and the player has been informed of their interest. (영국영어)
+    * The Dallas Cowboys are ~ (미국영어)
+    * The Cowboys are ~ (미국영어)
+    * Dallas is ~ (미국영어)
+       
+* I think the [goverment are]{.underline} only threatening to use the police to provoke a confrontation.
+
+* Our current main alliance is with Chelsea Football Club. [Samsung are]{.underline} their main sponsor for 2005/6 and Samsung are working to maximise this opportunity in many ways.
+
+* The [BBC are]{.underline} well known for producing some excellent television programmes.
+
+* The [band are]{.underline} touring extensively over the next couple of months. (영국)
+* [The band]{.underline} is fading in popularity, but [they]{.underline} refuse to recognize that. (미국)
+
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

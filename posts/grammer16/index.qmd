@@ -1,0 +1,186 @@
+---
+title: "명사(관사)"
+date: 2019-11-02
+categories: [English, Grammar]
+description: "명사의 정체를 구체적으로 표현함"
+---
+
+## flower
+* a flower
+    * 이 세상에 있는 꽃 중 '아무 꽃 하나'
+* flowers
+    * 지구상에 존재하는 '꽃 전체'
+    * **셀 수 있는 명사 전체를 표현할 때 관사 없이 복수형 사용**
+* the flower
+    * 어제 친구로부터 선물받은 '그 꽃'
+* the flowers
+    * 우리 집 정원에 피어 있는 '많은 꽃'
+
+* 어떤 명사가 CN(하나 둘의 개념을 갖고 있는 명사)일 때, 반드시 앞에서 한정을 해주어야 함
+    * a flower, the flower, my flower, this flower, ...
+    * **CN은 단독으로 사용할 수 없음**
+
+## the
+* 글
+    * writer와 reader 모두 알고 있는 명사일 경우
+* 말
+    * speaker와 listener 모두 알고 있는 명사일 경우
+
+## the vs. a
+* 너도 알고 나도 알면 'the', 그렇지 않다면 'a'
+    * Can I use the car? (아들이 아버지에게)
+    * I saw a nice-looking car today. (친구끼리)
+    * I heard that you once had a red car. (친구끼리)
+    * I need to buy a new car. (남편이 아내에게)
+    
+    >
+    * 두 사람 모두 알고 있는 명사(CN / UN 모두 해당)일 경우에는 the\
+    * 두 사람 중 한 명이라도 모르는 명사(CN의 경우)일 경우에는 a\
+      (단, UN은 a가 올 수 없으니, 그냥 단독으로 사용)
+
+    * A: Where is [the]{.underline} book I bought you last month?
+    * B: What book? Did you buy me [a]{.underline} book?
+    * A: Yes, I bought you a book because you like reading books.
+    * B: Oh! Now I remember, but I have no idea where [the]{.underline} book is now.
+    * A: Didn't you like [the]{.underline} book?
+    * B: Not much, In fact, books are not what I like any more.
+    * A: What about [the]{.underline} books that they call 'classics'?
+    * B: Let's stop talking about books. 
+
+    * I like flowers. (일반적인 표현)
+    * I like a flower. (좋아하는 꽃이 무슨 꽃인데?)
+    * I like the flower. (두 사람이 지금까지 rose에 대한 얘기를 하고 있었다면)
+
+## the 용법
+* 앞에서 한 번 나온 명사
+    * A truck crashed into [a car]{.underline} and [the car]{.underline} exploded.
+    * [Princess Diana]{.underline} died from injuries in a crash. [The princess]{.underline} died at 4 a.m. after going into cardiac arrest.
+    * The situation now is that Manchester United have officially asked about [Park]{.underline} and [the player]{.underline} has been informed of their interest.
+* 유일한 명사 앞 (유일하다면, 너도 알고 나도 알고 있겠지)
+    * [The earth]{.underline} revolves around the sun.
+    * You are [the only one]{.underline} I like in [the world]{.underline}.
+    * Ryan is [the best swimmer]{.underline} in the class.
+
+    * A: Where's your mom?
+    * B: She is in [the kitchen]{.underline}, preparing dinner for [the family]{.underline}.
+        * 어머니(she)께서 당연히 **우리집 부엌**에서 **우리 가족 식사**를 준비하겠지?
+
+    * Dad: Do you like [the]{.underline} pen?
+    * Daughter: What pen are you talking about, dad?
+    * Dad: I bought [a]{.underline} nice pen for you yesterday and put [the]{.underline} pen on the desk.
+    * Daughter: There was no pen on the desk.
+    * Dad: Well, I'll get [a]{.underline} new pen today.
+
+    * A: Do you have [a]{.underline} pen?
+    * B: No, I don't.
+    * A: What happened to [the]{.underline} pen that I gave you yesterday?
+        * a pen과 the pen은 서로 다른 pen을 가리킴
+        * a pen은 막연한 pen, the pen은 **내가 예전에 준** pen을 가리킴
+        * 예전에 줬으니, 서로 알고 있는 pen
+        * the가 나왔으니, 무얼 얘기하는지 단서를 주겠지?
+    * B: Did you give me [a]{.underline} pen yesterday?
+        * A가 pen을 줬다는데, 기억이 나질 않는 경우
+    * A: Yes, I gave you [a]{.underline} pen yesterday.
+
+    * I will take you to [a]{.underline} place that you will never forget.
+        * a place 뒤에 구체적인 단서를 주지만, 말을 듣는 상대방 머릿속에 place가 입력돼 있지 않다고 생각하면서 말한 경우
+
+    * He is [a]{.underline} player wo can play in several different positions in midfield.
+        * 어떤 선수냐면~
+
+    * Bush is [a]{.underline} president who thinks he is an action movie star.
+        * 부시가 대통령인 거 모르는 사람이 있을까?
+        * 일반적인 사실과 달리 새로운 사실을 말할 경우
+        * 너 부시가 어떤 대통령인줄 모르지? 부시는 어떤 대통령이냐면~
+
+    * President Bush doesn't have a clue how to run the economy.
+    * **=** Bush is [a]{.underline} president who doesn't have a clue how to run the economy.
+
+    * He is [a]{.underline} teacher who really cares about the students.
+
+    * Open [the]{.underline} door.
+    * Did you feed [the]{.underline} dog?
+    * Pass me [the]{.underline} salt.
+        * salt (UN)
+        * 소금을 달라고 말하는 사람은 그걸 줄 사람이 자기가 어떤 소금을 달라고 말하는 건지 알 고 있다고 생각하기 때문
+
+    * Washington's ambassador to the United Nations [John Danforth]{.underline} has resigned. In a brief letter to President Bush, dated November 22, [the 68-year old former Senator from Missouri]{.underline} said he would be going home to St. Louis to be with his wife. 
+    * The situation now is that Manchester United have officially asked about [Park]{.underline} and [the player]{.underline} has been informed of their interest.
+    * Boston University is in [Boston]{.underline}, a large city in Massachusetts. Most students enjoy life in [the big city]{.underline}. They think it is exciting to have so many discos and stores not far from the campus.
+    * [Rudy Baez]{.underline}, who was paralyzed in a riding accident at Rockingham Park more than a year ago, has taken a job at Suffolk Downs. [The 50-year-old former jockey]{.underline} was paralyzed from the chest down during an accident on August 4, 1999. [The 24-time riding champion]{.underline} continues to undergo physical therapy and has learned to operate a specially equipped automobile that was donated by Suffolk Downs last spring.
+    * [Sir Alexander Fleming]{.underline}, the discover of penicillin, needed to go to Belfast. [The Nobel Prize winner]{.underline} was going to give an important lecture there. When he arrived at London's Heathrow Airport, he was surprised to find that he and other passengers had no seats. The clerk explained that the government had booked fifty seats the last moment. 
+    * [Choi]{.underline} hadn't done anything physical since June 7, when he and pitcher Kerry Wood chased a popup. They collided and Choi fell hard, slamming his head on the ground. [The 6-foot-5, 240-pound first baseman]{.underline} lay motionless for several minutes as the ballpark went silent.
+
+* 나라 이름, 도시, 거리, 대학, 산, 호수 이름에는 the를 붙이지 않음
+    * Korea, Germany, Seoul, Rome, Wall Street, Harvard University, Boston College, Mount. Everest, Lake Michigan
+
+* 일부 나라 이름, 바다, 강, 운하, 산맥, 제도, 사막에는 the를 붙임
+    * the United States (of America), the Netherlands, the Philippine, the Atlantic Ocean, the Mediterranean Sea, the Hudson River, the Panama Canal, the Rocky Mountains, the Sahara Desert
+
+* 시간, 수량의 단위를 나타낼 때 by the를 붙임
+    * Sugar is sold by the pound.
+    * I am paid by the hour.
+
+* 악기나 과학 기술 관련 명사 앞에 the를 붙임
+    * I can't play the guitar.
+    * Who invented the telephone?
+
+* 동명이인이 있을 때, 구분하기 위해 the를 붙임
+    * A: I think Tom Cruise is Handsome.
+    * B: Do you mean [the [thee]]{.underline}  Tom Cruise?
+    * A: Yes. The Tom Cruise.
+
+## 하나와 다른 하나
+* 하나: one
+* 다른: other
+
+* 하나: one
+* 아무거나 한 개: an + other = another
+* 다른 것 중 하나를 콕 집는 경우: the other
+
+### 두 개가 있을 때
+* 그냥 단순히 하나와 다른 하나를 말할 때, 처음 하나는 특별히 지정하지 않았으므로 one
+* 다른 하나는 둘 중에 하나를 말했으므로, 당연히 다른 것이 무엇을 말하는지는 말하는 사람이나 듣는 사람 모두 알 수 있으므로 the other
+
+### 세 개가 있을 때
+* 처음 아무 하나는 one
+* 다른 것 중 아무 하나는 another(an + other)
+* 마지막 남은 것 하나는 '너도 알고 나도 아는' the other
+
+* 만약, 처음에 one이 나오고, 뒤에 the other이 나오는 대화라면, '아! 딱 두 개구나'
+    * He has two sons; one is still a baby, and the other a boy of ten.
+    * John had his books in one hand and his glasses in the other.
+* 만약, 처음에 one이 나오고, 뒤에 another이 나오는 대화라면, '아! 두 개가 넘나 보구나'
+    * There must be another way of doing it.
+        * 정확히 몇 가지인지는 모르겠지만, 적어도 두 개 이상이겠지
+    * One way or another, we're going to get him.
+    
+## 한정사
+* a를 붙여 일반적 개념의 명사로 한정하거나(범위를 좁히거나), the를 붙여 어느 특정한 개념의 명사로 한정하거나 복수형을 만들어 전체의 개념으로 한정함
+
+### 특정한 개념으로 한정해주는 한정사
+* the
+* this, that, these, those
+* my, your, his, her, its, our, their
+    * The car over there is my favorite.
+    * I bought this car from him.
+    * Do you like my new car?
+
+### 일반적 개념으로 한정해주는 한정사
+* a[an]
+* some, any, several, every, no
+* many, much, (a) few, (a) little
+    * I bought a new car yesterday.
+    * There were some cars parked along the street.
+    * Not many people showed up.
+    * There was not much money left when I arrived.
+
+* **CN 앞에는 반드시 하나의 한정사가 오거나, 아니면 복수형을 써야 한다**
+    * 한정사는 서로 같이 사용할 수 없음
+        * He is a my friend. (X)
+        * He is a friend of mine. (O) 
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

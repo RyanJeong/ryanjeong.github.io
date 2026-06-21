@@ -1,0 +1,161 @@
+---
+title: "명사(형용사·부사)"
+date: 2019-11-04
+categories: [English, Grammar]
+description: "형용사는 명사를, 부사는 동사, 형용사, 그리고 다른 부사를 꾸며줌"
+---
+
+## modifier (수식어)
+* 형용사
+    * He is a man.
+        * He is a [young[healthy / handsome / wise / married / ...]]{.underline} man.
+* 부사
+    * He runs.
+        * He runs [in the morning[in the park / fast / for thirty minutes / every day / ...]]{.underline}.
+
+## 형용사
+* This book is interesting. (서술적 용법)
+* This is an interesting book. (한정적 용법)
+    * time vs. a good time
+    * book (막연함)
+    * a book (아무 책, 의미 한정, 한정사)
+    * an interesting book (재미있는 책, 의미 한정, 형용사)
+
+* He has two sons who are doctors. (제한적 용법, 선행사를 수식)
+* He has two sons, who are doctors. (계속적 용법, 선행사를 설명)
+
+## 형용사 용법
+* 서술적 용법
+    * Ryan = healthy
+        * Ryan is healthy.
+        * Ryan seems[appears] healthy.
+        * Ryan stays[remains] healthy.
+        * Ryan becomes[gets] healthy.
+
+    * she = sexy
+        * She is sexy.
+        * She looks sexy.
+        * She sounds sexy.
+        * She talks sexy.
+        * She walks sexy.
+        * She dresses sexy.
+
+    * They looked happily at each other.
+
+    * A: The dog smells good. (link)
+        * dog = good
+    * B: The dog smells well. (not link)
+
+## 한정적 용법
+* I saw a [familiar]{.underline} face at the next table.
+* It turned out to be a [fatal]{.underline} mistake.
+* Buying a [used]{.underline} car takes time and research.
+* Some may think this is an [impossible]{.underline} mission.
+
+* 항상 형용사가 명사 앞에 위치하는 것은 아님
+    * a mission impossible
+    * 사람들의 관심을 환기시키는 효과
+        * 김봉두 선생 vs. **선생 김봉두**
+
+    * '~ General'
+        * '특정 하나가 아닌, 전체와 관련 있는'
+        * 총괄
+            * Secretary General (of the United Nations)
+            * Director General (of the WHO)
+            * Surgeon General
+            * Attorney General 
+
+    * something / anything / nothing
+        * I need *[something]{.underline}* [new]{.underline}.
+        * There is *[nothing]{.underline}* [wrong]{.underline} with that.
+        * I had a feeling that she would be *[someone]{.underline}* [special]{.underline} in my life.
+        * *[Nobody]{.underline}* [present]{.underline} knew the answer.
+
+    * 분사
+        * In this poll, *[50 percent of those]{.underline}* [surveyed]{.underline} said they disapproved of Bush's Iraq policy.
+        * There's a strong correlation between *[time]{.underline}* [spent]{.underline} playing games and childhood obesity.
+
+    * to부정사
+        * This is a difficult *[question]{.underline}* [to answer]{.underline}.
+        * With less than *[five minutes]{.underline}* [to play]{.underline}, he scored his second goal of the game.
+
+## 명사 앞에서만 수식하는 형용사들
+* a [live]{.underline} fish
+* Ryan is an [old]{.underline} friend of mine.
+* That's a nice [little]{.underline} house.
+* They were [mere]{.underline} puppets.
+
+## 명사를 설명만 해주는 형용사들
+* a-
+    * He was [asleep]{.underline} when I arrived.
+    * She was [afraid]{.underline} to go out of the house.
+    * I was all [alone]{.underline} in the house.
+    * They are very much [alike]{.underline}.
+
+* Ryan's been [ill]{.underline} recently, but he's looking verry well now.
+
+## 원급·비교급·최상급
+* He is tall. 
+* He is as tall as you.
+* He is taller than you.
+* He is the tallest boy in the class.
+
+* Women are not as tall and as strong. They don't have as much upper body strength.
+    * as tall as men, as strong as men, as much upper body strength as men
+* Store brands can sell anywhere from 25 percent to 50 percent less than a comparable national brand. But are the store brands as good?
+    * as good as national brands
+* My brother speaks three languages, and I speak as many languages.
+    * as many languages as he does
+
+## 부사
+* 동사와 형용사를, 때로는 부사를 꾸며줌 (부가적인 요소)
+    * I don't remember him [very well]{.underline}.
+    * It's [terribly]{.underline} cold today.
+    * They're running [anusually]{.underline} fast.
+    * They were fighting [that night]{.underline}.
+    * I didn't go [for that reason]{.underline}.
+    * I was shocked [when I first saw you]{.underline}.
+    * [If you agree]{.underline}, I'll go with him.
+
+## 부사 vs. 전치사
+* **전치사**일 때는 뒤에 무언가가 같이 나옴
+    * 전치사, 말 그대로 앞에 놓이는 말
+        * He is [in]{.underline} his office.
+        * A man came [down]{.underline} the stairs.
+
+* 전치사가 부사로 사용될 경우
+    * You can go [in]{.underline}.
+    * Sit [down]{.underline}.
+
+* on (접촉의 느낌)
+    * I left the letter [on]{.underline} the desk.
+    * I put [on]{.underline} my coat and went to work.
+    * I've put [on]{.underline} a bit of weight and I should stay off the doughnuts.
+    * He was standing there with nothing [on]{.underline}.
+    * I don't remember what he had [on]{.underline}.
+    * If you like that dress, you can try it [on]{.underline}.
+    * He turned [on]{.underline} the radio.
+    * Could you hold [on]{.underline} for a minute? I've got another call.
+    * hands-on experience
+        * 본인 손으로 직접 체험
+    * an on-ramp
+        * ramp와 연결되는 길
+    * on-the-job training 
+        * job과 접촉된 상태에서의 교육
+
+* on (계속)
+    * The meeting went on for over four hours.
+    * Life goes on.
+    * I just want to get on with my life.
+    * We intend to carry on as usual.
+    * Dream on, It's not going to happen.
+        * 계속 꿈이나 꿔~ ... 
+    * Talks have dragged on for over a year.
+    * It could go on and on and on.
+    * All the lights were on.
+    
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.
+

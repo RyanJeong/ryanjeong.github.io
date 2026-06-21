@@ -1,0 +1,44 @@
+---
+title: "단순시제"
+date: 2019-10-01
+categories: [English, Grammar]
+description: "단순현재, 단순과거"
+---
+
+## 단순현재
+* **늘, 항상 그러한 상태**
+
+### permanent (상태)
+* Fish [live]{.underline} in water.
+* I [take]{.underline} a shower every day.
+* The sky [is]{.underline} blue.
+* Ryan [works]{.underline} at a bank.
+* The shop [opens]{.underline} at 9 o'clock.
+* The earth [goes]{.underline} round the sun.
+
+### 미래 표현
+* The exhibition [opens]{.underline} on November 1.
+* His train [arrives]{.underline} at 10:30.
+
+### 약속 또는 맹세
+* I [promise]{.underline} never to lie again.
+* I [swear]{.underline} that I will never walk away from you again.
+
+## 단순과거
+### 이미 끝난 상황
+* 과거 어느 한 시점에서 발생한 일
+    * Yesterday it [rained]{.underline} all morning.
+    * He [watched]{.underline} television last night.
+
+* 방금 몇 초 전에 발생한 일도 이미 끝난 상황이라면 단순과거
+    * [Did]{.underline} the phone ring?
+
+### 공손한 표현 (i)
+* hope, wonder 같은 단어와 함께 공손한 표현을 하는 경우 단순과거 사용
+    * I [wondered]{.underline} if you were free this evening.
+    * I [hoped]{.underline} we could have a quick word before the meeting.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

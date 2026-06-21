@@ -1,0 +1,175 @@
+---
+title: "분사"
+date: 2019-10-18
+categories: [English, Grammar]
+description: "동사를 형용사로 사용하기 위해 동사원형에 ing를 붙이거나 ed를 붙인 형태"
+---
+
+## 형용사의 용법
+* 분사는 동사를 형용사로 쓰기 위해 사용
+* 현재분사는 '-ing', 과거분사는 'p.p.'
+
+## 자동사의 분사
+* 의미는 '진행' 또는 '완료' 두 가지 중 하나
+    * -ing: '진행'
+        * falling leaves
+        * a developing country
+    * p.p.: '완료'
+        * fallen leaves
+        * a developed country
+
+## 타동사의 분사
+* "~을"에 해당하는 목적어를 갖는 형태
+    >
+    excite: make **somebody** feel happy\
+    bore: make **somebody** feel impatient\
+    interest: make **somebody** want to know about something\
+    move: mkae **somebody** feel something, especially tender feelings\
+* 어떤 명사가 그 동작을 행하는 주체(능동적): -ing
+    * He is boring.
+    * The news was surprising.
+    * The movie was boring.
+    * The novel was moving.
+    * The girl was surprising.
+
+* 어떤 명사가 그 동작을 당하는 객체(수동적): p.p.
+    * He is bored.
+    * The news surprised the people.
+    * The people were surprised.
+    * The movie bored me.
+    * I was bored.
+    * The novel moved him.
+    * He was moved.
+    * The girl surprised the people.
+    * The people was surprised.
+
+## 수동태
+### 'be동사 + 자동사p.p.'
+* 수동태로 보지 말고, 하나의 형용사로 간주
+    * She's gone.
+
+### 'be동사 + 타동사p.p.'
+* 주어가 동작을 당하는 객체
+    * I was shocked by the news.
+    * The book was written in the 19th century.
+    * His story is known to everybody.
+    * I am not interested in how you got the job.
+    * I was not surprised at his reaction at all.
+
+    * This house was build in 1980.
+        * They built this house in 1980.
+
+    * All the trouble was caused by him.
+    * He was given a car.
+        * be given: 받다
+        * be told: 듣다
+        * be taught: 배우다
+
+    * It was believed that he was the right man for the job.
+    * I am used to this kind of work.
+
+### get
+#### become으로 쓰이는 경우
+* I should finish the work before it gets dark.
+* I'm getting worried about the exam.
+* We've just got married.
+* You'll have to get used to your new job.
+* Don't get involved in politics.
+* I got involved in politics after I met him.
+    * get: 동작 표현 vs. be: 상태 표현
+        * He was married when I first met him. (상태)
+        * He got married last year. (동작) 
+
+        * I'm done (상태)
+        * I'll get the job done. (동작)
+
+* My finger got stuck in the door.
+* If you go there alone, you might get killed.
+* Let's get going.
+* I should get the job done by tomorrow.
+* I'll get the children ready.
+* Ryan got her pregnant.
+* I'm done with you.
+
+## 형용사의 모습
+1. 자동사의 분사
+2. 타동사의 분사
+3. 수동태
+4. **형용사의 역할을 하는 분사**
+    * 명사와의 관계가 -ing일 경우에는 '진행, 능동', p.p.일 경우에는 '완료, 수동'
+    * 분사와 관계된 명사를 빨리 발견하고, 그 관계를 생각해 문장의 뜻을 이해하는 것이 중요
+        * This is quite an interesting book.
+        * The 1990s was a lost decade for the Japanese economy.
+        * The idea sounds exciting and is worth a try.
+        * I was very interested in French.
+        * I saw him standing in front of the door. 
+        * I can make myself understood in English.
+            * 주변 사람들이 understand me
+        * Ryan had us laughing to tears.
+        * I need to get my car repaired as soon as possible.
+        * He wanted to visit an English-speaking country outside of Europe.
+        * Your post should be relevant to the topic discussed.
+        * Those attending will have the opportunity to win a variety of prizes.
+
+    * 형용사(-ing형 또는 p.p.)를 포함한 여러 단어가 명사를 수식할 경우에는 반드시 명사 뒤에 위치해야 함
+        * Do you know the girl dancing over there?
+        * I was annoyed by the people smoking cigarettes.
+        * I was annoyed by the people smoking on the benches.
+        * All the organizations invited to the conference will have a chance to present their activities.
+
+## 분사구문
+* When he saw me, he stood up and held out his arms.
+    1. ~~When~~ he saw me, he stood up and held out his arms.
+        * 접속사 제거
+    2. ~~he~~ saw me, **he** stood up and held out his arms.
+        * 두 절의 주어가 같으니 생략
+    3. ~~saw~~Seeing me, he **stood** up and **held** out his arms. 
+        * 두 절의 시제가 같으니 진행형
+        * **만약 when 이하 절의 시제가 주절의 시제보다 하나 앞선 시제일 경우, having seen**
+
+    * Seeing me, he stood up and held out his arms.
+
+* 분사로 시작하는 구문
+    * I don't know the man [standing]{.underline} there.
+    * [Standing]{.underline} there alone, I realized how lucky I am.
+    
+    * A: Who is the woman [running over there]{.underline}?
+    * B: Some of the people [invited to the party]{.underline} were my old friends.
+    * C: [Finishing the work]{.underline}, I went to bed.
+    * D: [Frightened by a mouse]{.underline}, she ran into the room.
+
+
+* 분사구문 문장을 읽을 때 주절의 주어를 기다릴 것
+    * Seeing the terrible scene, she fainted.
+        * 분사구문의 주어와 주절의 주어가 같을 때, 분사구문의 주어는 생략 가능
+    * Surprised at discovering how tall he was, she looked up at him.
+        * Surprised 앞에 아무도 없다는 건, '주절의 주어'와 관련 있음을 의미
+
+    * **=** She looked up at him, surprised at discovering how tall he was.
+
+* 분사구문과 주절의 주어가 다를 경우
+    * His eyes glistening with tears, he stood up and left without saying anything.
+        * be동사 없는 불완전한 분사구문
+    * He stood up and left without saying anything, his eyes glistening with tears.
+        * 구어체 일반적인 표현 (i), 불완전한 분사구문을 뒤로 옮김
+    * He stood up and left without saying anything with his eyes glistening with tears.
+        * 구어체 일반적인 표현 (ii), with 사용 (~인 채로)
+
+    * There was a man standing there with his hands tied behind his back. 
+    * Face forward with your feet positioned shoulder-width apart.
+        * with your feet shoulder-width apart. (더 일반적인 표현)
+    * "You're marrying my sister?" Ryan said, with his face turning red.
+    * Walking down the street, the store was closed.
+        * **=** Walking down the street, I found that the store was closed.
+    * On my way back home that night, I was falling asleep, exhausted by the day's activities.
+    * He sounded tired, saying he loved me and still wanted me as his wife.
+    
+    * A: The resort, located near the sea, gets fresh air all year round.
+    * B: Located near the sea, the resort gets fresh air all year round.
+    * C: The resort get fresh air all year round, located near the sea.
+
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

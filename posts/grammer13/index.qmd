@@ -1,0 +1,90 @@
+---
+title: "동명사"
+date: 2019-10-18
+categories: [English, Grammar]
+description: "동사를 명사로 사용하기 위해 동사원형에 ing를 붙인 형태"
+---
+
+## 주어, 목적어, 보어 역할
+* [Gambling]{.underline} isn't much fun. (문장의 주어)
+* I enjoy [dancing]{.underline}. (동사 enjoy의 목적어)
+* My favorite pastime is [gardening]{.underline}. (주어 my favorate pastime을 보완하는 주격 보어)
+
+### 동명사만을 목적어로 취하는 대표 동사
+* Do you [mind]{.underline} stepping outside to send and receive calls?
+    * "싫어하고 짜증내고 마음에 안 들어 하다"
+    * 상대에게 공손한 부탁을 할 때 나오는 표현
+* Would you [mind]{.underline} stepping outside to send and receive calls?
+    * 상대에게 더욱 공손한 부탁을 할 때 나오는 표현
+    
+* He [admitted]{.underline} taking millions of dollars in bribes.
+* I [enjoy]{.underline} sending e-mails and surfing the web.
+* After checking in, we sat by the pool to read while they [finished]{.underline} cleaning our room.
+* She never [considered]{.underline} taking her own life to end the pain.
+* You should [avoid]{.underline} meeting your "Internet friend" in the physical world.
+    * physical: 뭔가 실체가 있는, 오프라인
+
+* I can't help feeling that he's only interested in coaching championship-caliber teams.
+    * help는 avoid의 그림을 가짐
+* I couldn't help it. (어쩔 수 없었어)
+    * it을 avoid하는 그림
+
+## 동명사의 의미상 주어
+* I don't understand [Ryan's]{.underline} making such a fuss.
+    * 문장 상의 주어(이 문장에서는 I)와 making a fuss하는 주체가 다를 경우, 동명사의 의미상 주어를 적어야 함
+    * 소유격이 옴
+
+* I was angry at [her]{.underline} trying to lie to me.
+    * 문장 상의 주어와 trying to lie하는 사람이 다름
+    * she의 소유격 her
+
+* 구어체에서는 소유격 대신 목적격이 오는 경우가 많음
+    * **앞에서부터 순서대로 입으로 말하다 보니, Ryan이나 him을 아직 나오지도 않은 making이나 going의 의미상 주어라고 생각하기보다는, 앞에 나온 understand나 mind의 목적어라는 생각이 먼저 들어서 목적격으로 사용됨**
+
+    * I don't understand [Ryan]{.underline} making such a fuss.
+        * 사람 이름은 주격과 목적격이 동일
+    * I don't mind [him]{.underline} going with me.
+    * Stephanie was not happy with [him]{.underline} getting SMS daily from this woman.
+    * Ryan, what are the chances of [you]{.underline} making it?
+    * He tole me that [me]{.underline} being pregnant is a headache for him and his new girlfriend.
+
+## 가주어·가목적어 it
+* It is nice talking to you.
+* It is no good talking to my boss. He never listens.
+* I found it careless talking like that in front of him.
+
+## 전치사 뒤에는 동명사
+* 전치사 뒤에는 전치사의 목적어
+    * **전치사 다음에 동사가 올 일이 있으면, 명사로 바꾸어야 함** (동명사)
+    * 동사를 명사로 만드는 법은 동명사와 부정사가 있지만, **전치사 뒤에는 동명사만 오고, 부정사는 오지 않음**
+        * He left without telling me.
+        * Always check the engine before starting the car.
+        * I was talking about closing down the factory.
+
+    * 전치사 to
+        * to가 전치사로 올 경우 일종의 방향성을 지님 (앞으로의 방향)
+            * A: Where are you going?
+            * B: I'm going [to]{.underline} a bank.
+
+        * I look forward to hearing from you soon.
+        * I object to working on Sundays.
+        * I'm not used to driving in Seoul.
+        * I prefer swimming to running.
+        * We are committed to creating a better world.
+
+## 동명사 vs. 현재분사 ing
+* -ing 형태로 나와 문장 속에서 어떤 역할을 하느냐?
+    * a sleeping pill vs. a sleeping child
+        * a pill for sleeping
+        * a child who is sleeping
+     
+    * a walking stick
+        * a stick for walking
+
+    * His brother was collecting coins and he was collecting stamps.
+    * His hobby was collecting stamps.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

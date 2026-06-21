@@ -1,0 +1,34 @@
+---
+title: "복합시제(과거완료)"
+date: 2019-10-07
+categories: [English, Grammar]
+description: "과거의 한 시점 이전 동작 + 과거의 의미"
+---
+
+## 현재 완료를 과거로 옮김
+* **과거의 한 시점 이전 동작 + 과거의 의미**
+    * 현재완료: I [am]{.underline} very excited because I [have]{.underline} never [been]{.underline} to a concert before.
+    * 과거완료: I [was]{.underline} very excited because I [had]{.underline} never [been]{.underline} to a concert before.
+
+    * 현재완료: I [am]{.underline} not hungry now. I [have]{.underline} already [eaten]{.underline}.
+    * 과거완료: I [was]{.underline} not hungry when I met you. I [had]{.underline} already [eaten]{.underline}.
+
+## 전후 상황 표시
+* 전후 상황을 보여주는 접속사들이 있을 때, 굳이 과거완료를 사용할 필요 없음
+    * [After]{.underline} I finished, I went home.
+    * [After]{.underline} I had finished, I went home.
+
+    * [As soon as]{.underline} I put the phone down, it rang again.
+    * [As soon as]{.underline} I had put the phone down, it rang again.
+
+* 과거완료를 사용해야 하는 경우 (전후 관계가 모호한 경우)
+    * The patient [died]{.underline} when the doctor arrived.
+    * The patient [had died]{.underline} when the doctor arrived.
+
+    * When Ryan arrived, Stephanie [left]{.underline}.
+    * When Ryan arrived, Stephanie [had left]{.underline}.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

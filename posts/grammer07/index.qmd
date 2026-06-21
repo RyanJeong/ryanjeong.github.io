@@ -1,0 +1,278 @@
+---
+title: "조동사"
+date: 2019-10-12
+categories: [English, Grammar]
+description: "문장 내의 동사가 문장의 의미를 결정한다면, 문장 내의 조동사는 그 동사의 느낌을 결정"
+---
+
+## 기본 문법
+1. 부정문에서는 not을 조동사 뒤로
+    * You [cannot]{.underline} do that.
+    * He [might not]{.underline} be home now.
+    * I [will not]{.underline} do that.
+
+2. 의문문에서는 주어 앞으로
+    * [May]{.underline} I use your phone?
+    * [Could]{.underline} I talk to you for a moment?
+    * [May]{.underline} all your wishes come true!
+
+3. 완전한 동사가 아니다
+    * [He may]{.underline} run for president in 2008.
+        * ~~He mays~~ ...
+
+4. 조동사는 한 번에 하나만
+    * He will go ... 
+        * He ~~will may~~ go ...
+
+* 문장 내의 동사가 문장의 **의미**를 결정한다면, 문장 내의 조동사는 그 동사의 **느낌**을 결정
+    * He [is]{.underline} right (100% 확실)
+    * He [must be]{.underline} right (100% 확실하지는 않지만 틀림 없음)
+    * He [should be / ought to be]{.underline} right (그럴 거야 / 과연 그럴까)
+    * He [may be]{.underline} right (그럴 수도 있고 안 그럴 수도 있고)
+    * He [might be / could be]{.underline} right (그럴 거야 / 과연 그럴까)
+    * He [can't be]{.underline} right (100% 확실하지는 않지만 틀림 없음)
+    * He [is not]{.underline} right (100% 확실)
+
+***
+## 조동사의 1차적 의미
+### will: **intention (strong)**
+* I [will]{.underline} pay my taxes.
+
+### can: **ability**
+* I [can]{.underline} pay my taxes.
+
+### may[might]: **possibility (positive)**
+* I [may[might]]{.underline} pay my taxes.
+
+### could: **possibility (might & negative)**
+* I [could]{.underline} pay my taxes.
+
+### should: **obligation**
+* I [should]{.underline} pay my taxes.
+
+### must: **necessary**
+* I [must]{.underline} pay my taxes.
+
+### would: **intention (weak)**
+* I [would]{.underline} pay my taxes.
+
+***
+## 조동사 6가지 용법
+### 추측: **~일 것이다**
+1. 어떤 근거가 없는 상황
+    * 일반적인 추측 (~일 것이다, ~일 수도 아닐 수도 있다)
+2. 나름대로 근거가 있는 경우
+    * 강한 긍정의 추측 (틀림없이 ~일 것이다, ~임에 틀림없다)
+    * 강한 부정의 추측 (틀림없이 ~이 아닐 것이다, ~일 리 없다)
+
+* 단순 추측[may]
+    * 50% 긍정 & 50% 부정
+        * He [may]{.underline} be right, but he [may]{.underline} be wrong, too.
+        * It [may]{.underline} rain late in the afternoon.
+
+    * may, might, could
+        * He [may[might/could]]{.underline} be in korea now.
+        * He [may[might/could]]{.underline} be in korea tomorrow.
+
+    * may > might >= could
+        * He [is]{.underline} in Korea.
+        * He [may]{.underline} in Korea.
+        * He [might]{.underline} in Korea.
+        * He [could]{.underline} in Korea.
+
+    * may vs. might
+        * may와 might의 어감 차이는 개인별로 다름
+        * may와 might는 거의 비슷하거나, might가 may보다 조금 더 약한 어감
+            * I [may]{.underline} go to the auto show.
+            * I [might]{.underline} go to the auto show.
+        
+            * I [may]{.underline} not know everything, but I [might]{.underline} know something that [might]{.underline} help you.
+
+            * If you [go]{.underline} to bed early tonight, you [may/might]{.underline} feel better tomorrow. (확실하지 않은 단순 추측)
+            * If you [went]{.underline} to bed early tonight, you [might]{.underline} feel better tomorrow. (사실의 반대)
+
+    * 과거에 대한 단순 추측
+        * 조동사 뒤의 원형부정사를 완료부정사로 대치
+            * He [was]{.underline} in Korea.
+            * He [may have been]{.underline} in Korea.
+            * He [might have been]{.underline} in Korea.
+            * He [could have been]{.underline} in Korea.
+
+* 강한 부정의 추측[can't]
+    * He [can't be]{.underline} in Korea.
+    * He [can't have been]{.underline} in Korea.
+
+* 강한 긍정의 추측[must]
+    * He is in Korea.
+    * He [must be]{.underline} in Korea.
+    * He [must have been]{.underline} in Korea.
+
+    * must / have to / have got to / got to / gotta
+        * Ryan [has to]{.underline} be the best-looking baseball player at the moment.
+        * The reporter, who spoke with his lawyer, insisted the story [had to]{.underline} be true.
+        * That's [got to]{.underline} be the reason.
+        * You [gotta]{.underline} be kidding.
+
+    * should / ought to
+        * ~임에 틀림 없다, ~해야 한다
+        * must보다 약한 어감
+            * She [should[ought to]]{.underline} be home.
+
+        * 부정의 추측으로는 거의 사용하지 않음
+            * She [shouldn't be]{.underline} home. (집에 있어서는 안 된다)
+        
+### 의무: **~해야 한다**
+* must
+    * ~해야 한다 (불가피한 의무, 강제성, 명령)
+        * you [must]{.underline} stop drinking.
+
+* should / ought to / had better / be supposed to
+    * ~해야 할 거야 (도덕적인 의무, 충고)
+        * you [should[ought to]]{.underline} stop drinking.
+
+        * You'[d better]{.underline} go.
+        * You'[d better]{.underline} help me with my homework.
+            * 자식이 부모님께 하면 ... 
+
+        * You'[re supposed to]{.underline} stop drinking.
+
+        * A: What time [are]{.underline} you [supposed to]{.underline} be there?
+        * B: I'[m supposed to]{.underline} be there by nine.
+
+        * You'[re]{.underline} not [supposed to]{.underline} be here; It's a restricted area.
+        * You're saying I'[m]{.underline} not [supposed to]{.underline} call her because she's married?
+
+* require
+    * 규칙상 ~해야 한다
+        1. need something or somebody: to be in need of something or somebody for a purpose
+            * The recipe requires a cup of milk.
+        2. make something necessary: to have something as a necessary precondition
+            * A password is required for entry to the system.
+        3. **demand something by law: to demand something by a law or regulation (often passive)**
+            * Notification was required by law.
+
+        * (사규에 의하면) All applicants [are required to]{.underline} speak English, be aged between 25-35 years and have some experiences in this field.
+        * (학칙에 의하면) All students [are required to]{.underline} have their photo ID card issued by the high school.
+        * (법률에 의하면) Drivers [are required to]{.underline} pass a physical examination every two years.
+
+* have to
+    * must가 "~해야 한다"일 때, 현재와 미래밖에 표현하지 못하기 때문에, have to의 도움을 받음
+    * have to의 have는 일반동사로 취급하며, 부정문일 때는 not이 have 앞으로, 의문문일 때는 do동사가 주어 앞에 위치
+        * You [don't have to]{.underline} drive for me.
+        * He [didn't have to]{.underline} see you.
+        * [Do]{.underline} you really [have to]{.underline} go?
+        * [Did]{.underline} I [have to]{.underline} tell you everything about Ryan?
+
+    * have to는 must보다 일반적인 단어이며, 부정문에서는 약간의 어감 차이 발생
+        * You [must not]{.underline} talk back to your mom.
+        * You [don't have to]{.underline} go now.
+
+### 능력: **~할 수 있다**
+* can / could / be able to
+    * I [can]{.underline} speak English, but I [can't]{.underline} read it.
+
+    * 일반적이지 않은 상황, 조건에 따라 결과가 바뀌는 상황, 연습 등
+        * Some people [are able to]{.underline} walk on their hands.
+    * 일반적인 능력, 상황
+        * Some people [can]{.underline} walk on their hands.
+
+    * Look! I [can]{.underline} stand on my hands!
+    * Don't worry about it. I [can]{.underline} pick you up tomorrow.
+
+    * 과거 표현
+        * He [could[was able to]]{.underline} read when he was three.
+
+* see / hear / smell
+    * I [could smell]{.underline} something burning.
+    * I listened carefully, but [couldn't hear]{.underline} anything.
+
+    * I [can smell]{.underline} something burning.
+        * I smell something burning.
+    * I [can't see]{.underline} anyone.
+        * I don't see anyone.
+    * I listened carefully, but [couldn't hear]{.underline} anything.
+        * I listened carefully, but didn't hear anything.
+
+* understand, remember
+    * I [can't understand]{.underline} why he left so early.
+        * I don't understand.
+    * Yes, I [can remember]{.underline} your father.
+        * Yes, I remember your father.
+
+### 허락: **~해도 된다**
+* can, could (구어체적) / may, might (문어체적)
+    * [Can]{.underline} I borrow your car? (가장 일반적인 말투)
+    * [Could]{.underline} I borrow your car? (can보다 정중한 말투)
+    * [May]{.underline} I borrow your car? (일반적인 말투)
+    * [Might]{.underline} I borrow your car? (거의 들을 수 없는 표현)
+        * I wonder if I [might]{.underline} use your car. (일반적인 might 표현)
+
+* 허락 시 정중하게, 답변은?
+    * [Can[May]]{.underline} I use your car?
+        * Yes, you [can[may]]{.underline}.
+        * No, you [can't[may not]]{.underline}.
+        * No, you [must not]{.underline}.
+
+    * [Could]{.underline} I ask you something?
+        * Yes, of course you [can]{.underline}.
+
+    * [Can[could]]{.underline} I possibly borrow your car?
+    * Do you think I [could[might]]{.underline} borrow your car?
+
+    * I wonder if I [could[might]]{.underline} borrow your car.
+    * I was hoping that you [could]{.underline} let me use your car. 
+
+* 허락을 받아 ~할 수 있었다
+    * When I was a kid, I [could]{.underline} watch TV whenever I wanted to. (일반적인 상황)
+    * Last night I [was allowed to]{.underline} watch TV for an hour. (특정한 때)
+
+* ~할 수 없었다
+    * Ryan [couldn't]{.underline} watch TV last night because he was naughty. (일반적인 상황, 특정한 때 둘 다 사용 가능)
+
+
+### 습관: **~하곤 한다**
+* will
+    * 현재의 습관
+        * In fine weather, he [will]{.underline} often sit in the sun for hours.
+        * Never mind, these things [will]{.underline} happen.
+
+* used to / would
+    * A: Do you love me?
+    * B: I used to. (과거에 ~했었지만, 지금은 아니다)
+
+    * I collected stamps when I was a kid.
+    * I [would]{.underline} collect stamps when I was a kid. (~하곤 했다)
+    * I [used to]{.underline} collect stamps when I was a kid. (~하곤 했지만 지금은 아니다)
+
+    * would: 동작, 사건
+    * used to: 동작, 사건, 상태
+        * When we were children, we [would[used to]]{.underline} go skaiting every winter.
+        * I [used to]{.underline} have a car.(~~would~~)
+        * He [used to]{.underline} be a waiter, but now he's a taxi-driver.(~~would~~)
+
+### 제안, 요청, 부탁
+* 제안
+    * Won't you have some coffee?
+    * Would you like some coffee?
+    * Can[could] I offer you some coffee?
+
+    * Yes, please. 
+    * Yes, I'd like[love] some, please.
+
+    * No, thank you.
+
+* 요청
+    * Can[Could / May] I have some coffee?
+    * Coffee, please.
+
+    * Certainly.
+    * Of course.
+
+* 부탁
+    * Will[Can / Could / Would] you (please) open the door for me?
+    * Would[Do] you mind opening the door for me?
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

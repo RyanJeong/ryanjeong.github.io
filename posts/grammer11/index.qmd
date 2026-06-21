@@ -1,0 +1,110 @@
+---
+title: "의문문"
+date: 2019-10-16
+categories: [English, Grammar]
+description: "평서문에서 주어와 동사의 어순을 바꾼 형태"
+---
+
+## 기본 규칙
+### 동사 외에 다른 동사가 있을 경우
+* be동사, 완료형의 have, 기타 조동사들과 주어의 위치를 서로 바꿈
+    * You [are]{.underline} going home. 
+        * → [Are]{.underline} you going home?
+    * Ryan [will]{.underline} be here soon.
+        * → [Will]{.underline} Ryan be here soon?
+    * You [can]{.underline} swim.
+        * → [Can]{.underline} you swim?
+
+### 일반동사만 있을 경우
+* do의 도움을 받아 동사 대신 주어 앞으로 이동
+* do는 일종의 조동사이므로, 동사는 원형이어야 함
+    * You [know]{.underline} Ryan Jeong.
+        * → [Do]{.underline} you [know]{.underline} Ryan Jeong?
+    * Ryan [loves]{.underline} baseball.
+        * → [Does]{.underline} Ryan [love]{.underline} baseball?
+    * He [studied]{.underline} last night.
+        * → [Did]{.underline} he [study]{.underline} last night?
+
+### 대답
+* No일 때는 주어와 동사 부분을 축약해서 대답해도 됨
+* Yes일 때는 축약하면 안 됨
+    * Are you going home?
+        * → Yes, I am. / No, I'm not.
+    * Will Ryan be here soon?
+        * → Yes, he will. / No, he won't.
+    * Can you swim?
+        * → Yes, I can. / No, I can't.
+    * Do you know Ryan Jeong?
+        * → Yes, I do. / No, I don't.
+    * Does Ryan love baseball?
+        * → Yes, he does. / No, he doesn't
+    * Did he study list night?
+        * → Yes, he did. / No, he didn't
+
+
+## 의문사가 있는 의문문
+* 6하원칙에 해당하는 영어 단어들
+    * when, where, who, what, how, why
+
+* '의문사 + 동사 + 주어'
+* Yes / No 의문문에서 앞에 의문사만 하나 더 추가한 꼴
+    * Does he live in Seoul? 
+        * → [Where]{.underline} does he live? (in Seoul을 몰라서 물어볼 때)
+    * Will you graduate next year? 
+        * → [When]{.underline} will you graduate? (next year를 몰라서 물어볼 때)
+    * Is your brother at home?
+        * → [Where]{.underline} is your brother? (at home을 몰라서 물어볼 때)
+    * I saw something.
+        * → [What]{.underline} did you see? (something을 몰라서 물어볼 때)
+    * Someone left the door open.
+        * → [Who]{.underline} left the door open? (someone을 몰라서 물어볼 때)
+    * Something happened. 
+        * → What happened? (something을 몰라서 물어볼 때)
+
+## 평서문을 올려 읽어라
+* 평서문의 끝을 올려 읽으면 의문문의 효과를 냄
+    * 이미 답을 알고 있는 상태에서 확인할 목적으로
+    * 놀라움을 표시할 목적으로
+        * You're coming with us [tonight]{.underline}?
+        * That's your [girlfriend]{.underline}? I think I've seen her before.
+
+## 맞장구
+* 누가 말한 것을 다시 한 번 확인하기 위함
+    * A: I'm getting married.
+    * B: You're getting [married]{.underline}?
+
+    * A: Take a look at this.
+    * B: Take a look at [what]{.underline}?
+    
+    * A: She passed the test.
+    * B: She did [what]{.underline}?
+    
+    * A: I'm going to Japan next month.
+    * B: You're going [where]{.underline}?
+
+    * A: I like the girl over there.
+    * B: Do you?
+
+    * A: I had a lovely weekend.
+    * B: Did you?
+
+## 부가의문문
+* 긍정과 부정을 바꿈
+    * 원래 문장이 긍정문이면, 부가의문문은 부정문으로
+
+* 원래 문장의 동사가 일반동사이면, do의 도움을 받음
+* 원래 문장의 시제와 부가의문문의 시제는 같음
+    * You don't like this, [do you]{.underline}?
+    * You know him, [don't you]{.underline}?
+    * He is your brother, [isn't he]{.underline}?
+    * Ryan can play the guitar, [can't he]{.underline}?
+    * You didn't drive the car, [did you]{.underline}?
+
+    * It's no good, [is it]{.underline}?
+    * There's little you can do about it, [is there]{.underline}?
+    * You seldom work on Sundays, [do you]{.underline}?
+    
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

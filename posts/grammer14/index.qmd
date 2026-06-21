@@ -1,0 +1,166 @@
+---
+title: "부정사"
+date: 2019-10-18
+categories: [English, Grammar]
+description: "동사를 명사, 형용사, 부사로 사용하기 위해 동사원형 앞에 to를 붙인 형태"
+---
+
+## 명사, 형용사, 부사
+### 동사를 명사로 사용
+1. 주어
+    * [To make mistakes]{.underline} is a part of life.
+2. 목적어
+    * I want [to go]{.underline} now.
+3. 보어
+    * My goal was [to win the championship]{.underline}.
+
+### 동사를 형용사로 사용
+* 형용사는 명사를 도움
+* 부정사가 명사를 꾸며줄 때, 항상 명사 뒤에 위치
+    * I knew nothing about your decision [to leave]{.underline}.
+    * I have nothing [to do]{.underline}.
+        * -thing 계열의 단어들(something, anything, ...)은 to부정사의 수식을 받을 때뿐 아니라, 일반적인 형용사의 수식을 받을 때도 자기 앞자리를 내주지 않음
+
+### 동사를 부사로 사용
+* I came here to see you.
+* He came home to find that she'd already gone.
+
+## 형태
+### 진행형
+* go (가다)
+* to go (가는 것)
+* to be going (가고 있는 것)
+    * A: It's nice to sit with you.
+        * To sit with you is nice.
+        * It을 사용하는 것이 더 일반적인 표현
+    * A: It's nice to be sitting here with you.
+        * 일반 진행형과 차이 없음
+
+### 과거형
+* go (가다)
+* to go (가는 것)
+* to have gone (갔던 것)
+    * I'[m]{.underline} sorry not [to have come]{.underline} on Sunday.
+        * am + to have p.p.
+        * I'm sorry that I didn't come on Sunday.
+
+### 수동형
+* do (하다)
+* to do (하는 것)
+* to be done(하게 되는, 하게 되는 것)
+    * There's a lot of work to be done.
+
+### 부정사의 부정
+* 부정사를 부정하려면, not을 to 앞에 넣는 것이 일반적
+    * You should try not to be late.
+* to부정사는 'to + 동사원형'이 한 덩어리이므로, not이 가운데에 위치하지 못함
+    * 오늘날 구어체에서 to부정사를 부정할 때, to와 동사원형 사이에 not이 위치하는 경우도 있음
+    * 부정사를 분리시키고 그 사이에 부사를 넣으면, 그 의미가 강해지는 효과
+        * Teach your child not to go anywhere with a stranger. 
+        * Teach your child to never go anywhere with a stranger. (어감이 더 강함)
+
+        * It's best [never to split]{.underline} infinitives (unless you want [to really emphasize]{.underline} something).
+        * This research was done [to better understand]{.underline} why and how we sleep.
+        * We expect our revenues [to more than double]{.underline} in 2005 from a year earlier.
+
+## 용법
+### 주어
+* to부정사는 문장 내에서 주어로 사용됨
+    * To play with kids is a lot of fun.
+
+* 구어체에서는 to부정사를 주어로 잘 사용하지 않음 
+* 동명사를 사용하거나, 가주어 it을 문장 앞으로 내세우고 to부정사는 뒤로 옮기는 경향이 있음
+    * Playing with kids is a lot of fun. (동명사)
+    * It's a lot of fun to play with kids. (가주어 it)
+
+### 보어
+* 보충, 보완
+    * He is. (의미가 완전하지 않음, 그 사람이 뭐?)
+    * He is a teacher. (의미가 완전함)
+        * a teacher가 주어 he의 의미를 보충, 보완함
+
+    * My goal was to get across the river.
+
+### 목적어
+* 동사의 목적어
+* 목적어는 기본적으로 명사의 몫
+    * I want a burger. (명사 a burger가 목적어)
+
+* 때에 따라, 동사를 목적어로 사용하고 싶을 때 해당 동사를 명사로 바꾸어주어야 함
+    * I want to have a burger. 
+
+* 목적어로 to부정사를 사용하는 대표적인 동사
+    * '앞으로 ~이다, ~하다'라는 어감을 가짐
+    * We've [decided]{.underline} to get braodband at home.
+    * I never [expected]{.underline} to see you again.
+        * I've never expected to see you again.
+    * What do you [hope]{.underline} to get for Christmas?
+    * We finally [managed]{.underline} to get him out of the car.
+    * I didn't really [mean]{.underline} to send the file to him.
+        * mean + to부정사: intend, plan
+    * I thought he [promised]{.underline} to give you whatever you wanted.
+
+### 명사 수식
+* I need *[a key]{.underline}* [to open]{.underline} this door.
+* Do you need some more *[books]{.underline}* [to read]{.underline}?
+* We've got plenty of *[time]{.underline}* [to see]{.underline} museum.
+* I have no *[time]{.underline}* [to do]{.underline} some shopping.
+
+### 목적의 의미 (~하기 위해)
+* He went abroad [to study]{.underline}.
+* I stopped [to rest]{.underline}.
+* He got up early [in order]{.underline} not to miss the train.
+    * 뜻을 더 분명히 하기 위해 in order나 so as 를 앞에 붙이기도 함
+
+* I left the door open [for Ryan]{.underline} to get in.
+    * to부정사의 의미상 주어(Ryan)와 문장상의 주어(I)가 다른 경우
+    * to부정사 앞에 'for + 의미상 주어' 형태로 넣어 혼동을 피함
+        * [To start]{.underline} this work today is unnecessary.
+            * 가주어가 나오는 게 일반적
+            * [It]{.underline} is unnecessary [to start]{.underline} this work today.
+                * 문장상의 주어가 없는 경우
+                * '아무나, 모든 사람'
+                * "(누가 하든지) 오늘 일을 시작하는 건 필요 없다"
+            * [It]{.underline} is unnecessary [for]{.underline} Ryan [to]{.underline} start this work today.
+            * [It]{.underline} is unnecessary [for]{.underline} him [to]{.underline} start this work today.
+
+### 결과 (~하고 나서 보니 나중에 ~하더라)
+* 예기치 못했거나 실망스러울 때
+* to 앞에 only를 붙이면 어감이 더 강해짐
+    * After driving all night we finally got to Ryan's place, only to find that he was not there.
+    * He left home, never to be seen again.
+
+### 형용사 뒤 (~해서 ~하다)
+* I'm pleased to see you.
+* What made you think I would be surprised to get this letter?
+* He's anxious to go home.
+* I was stupid to believe what he said.
+* Be careful not to touch the wire.
+* I was lucky not to be killed.
+
+## 부정사와 동명사 모두 목적어로 받는 동사
+### remember & forget
+* remember[forget] + -ing: ~한 걸 기억하다[잊다] (이미 한 것)
+    * I still remember buying my first PC.
+    * It seems that you've forgotten meeting Ryan.
+* remember[forget] + to부정사: ~한 걸 기억하다[잊다] (앞으로 할 것)
+    * Remember to get your flu shot as soon as you can.
+    * Don't forget to bring some of your friends.
+    * **전치사 to는 방향성을 나타냄**
+
+### regret
+* regret + -ing: ~한 걸 후회하다
+    * My wife and I have always regretted selling the house.
+* regret + to부정사: ~하게 되어 유감이다, 안 좋게 생각하다
+    * We regret to inform you that your son died yesterday.
+
+### stop
+* stop + -ing: ~하는 걸 멈추다
+    * I stopped smoking.
+* stop + -to부정사: ~하기 위해 멈추다
+    * I stopped to smoke.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

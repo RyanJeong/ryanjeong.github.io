@@ -1,0 +1,354 @@
+---
+title: "가정법"
+date: 2019-10-14
+categories: [English, Grammar]
+description: "있는 그대로 직선적으로 표현(직설법)하지 않고, 엄연한 사실의 반대 상황을 가정"
+---
+
+## if절의 기본 속성
+### 늘 항상 그럴 때(직설법)
+* 일종의 진리, 습관, 일반적인 경향
+    * If I [drink]{.underline} coffee in the evening, I [can't]{.underline} sleep at night.
+    * If you [boil]{.underline} water, it [changes]{.underline} from a liquid to a gas.
+    * If you [take]{.underline} a fish out of water, it [dies]{.underline}.
+
+### 결과를 몰라서 추측할 경우
+* if의 **가장 일반적인** 용법
+* 과거에 대한 추측일 경우에는 if절 시제에 과거 동사, 비과거(현재 또는 미래)에 대한 추측일 경우에는 if절 시제에 현재 동사 사용
+    * [If]{.underline} I [offended]{.underline} you, I apologize.
+    * [If]{.underline} he [takes]{.underline} the antibiotics, he'll get better.
+    * [If]{.underline} you [come]{.underline} tomorrow, we'll talk more.
+
+### 사실의 반대를 가정할 경우
+* 가정(가짜로 정하는)
+* 과거 상황을 가정할 때는 if절 시제에 과거완료, 비과거(현재 또는 미래) 상황을 가정할 때는 if절 시제에 과거 동사 사용
+    * If I [hadn't run]{.underline} so fast, I [would]{.underline} surely [have missed]{.underline} the train.
+    * If the weather [had been]{.underline} nice yesterday, I [would have gone]{.underline} out.
+    * If you [died]{.underline} tomorrow, you [would be]{.underline} in my heart.
+    * [Would]{.underline} you still [love]{.underline} me if I [were]{.underline} broke?
+
+## 비과거의 세계
+### 단순 추측
+* 직설법 시제를 따름
+* 문장의 시점이 과거면 과거 동사, 문장의 시점이 비과거면 현재 동사
+    * If you [finish]{.underline} the work by lunchtime, you [can]{.underline} take the afternoon off.
+    * If you'[re coming]{.underline} with me, you'[d better]{.underline} get ready now.
+    * If you'[ve finished]{.underline} the work I gave you, you [may]{.underline} go home now.
+    * If the weather [is]{.underline} good later, we [may]{.underline} go swimming.
+    * If you [do]{.underline} it again I'[m going to]{.underline} report it.
+    * If you [can't]{.underline} log in, then [make sure]{.underline} your email address is still working.
+    * If you [have]{.underline} some time, [could you]{.underline} please tell me what you think of my work?
+    * If I [see]{.underline} him in the street, I [would]{.underline} probably [smack]{.underline} him in the face.
+    * [What if]{.underline} over the next two years interest rates fall from 7.5 percent to 7 percent?
+
+### 사실의 반대
+* 가정법 시제를 따름
+* 문장의 시점이 과거면 대과거(had + p.p.), 문장의 시점이 비과거면 과거 동사
+    * If you [need]{.underline} some money [now]{.underline}, I [will lend]{.underline} you some.
+        * 단순추측
+        * "네가 돈이 지금 필요한지는 모르겠지만, 필요하다면 내가 빌려줄 수 있어."
+    * If you [needed]{.underline} some money [now]{.underline}, I [would lend]{.underline} you some.
+        * **사실의 반대**
+        * "너 돈 필요 없지? 너 정도 애는 돈이 필요 없을 거야. 그럴 리는 없겠지만, 돈 필요하면 내가 빌려 줄 수도 있어."
+
+        1. now가 있는데 needed
+            * 시제가 **비과거(현재 또는 미래)인데**, 동사가 과거형
+
+        2. 주절에는 거의 예외 없이 **would[could, might]**가 사용됨
+            * 말하는 사람은 상대방이 돈이 필요하지 않을 거라는 확신을 갖고 있음
+            * "빌려 줄 생각도 있는데..."
+            * **will, can, may보다 약한 어감**
+                * If you [needed]{.underline} some money [now]{.underline}, I [would lend]{.underline} you some.
+                * If you [needed]{.underline} some money [now]{.underline}, I [would be able to lend]{.underline} you some.
+                * If you [needed]{.underline} some money [now]{.underline}, I [could lend]{.underline} you some.
+
+    * If you **died tomorrow**, you **would be** in my heart.
+    * If you **die tomorrow**, I [wouldn't]{.underline} care.
+
+    * I love my boyfriend, and if he [asked]{.underline} me to marry him tomorrow, I [would]{.underline}.
+    * If he [asked]{.underline} you to marry him tomorrow, [would]{.underline} you say yes?
+
+    * Would you ~?
+        * "무슨 말을 하려고? 무언가를 깔고 말하려나?"
+        * [Would]{.underline} you accept a diamond ring if he [offered]{.underline} it to you?
+        * [Would]{.underline} you still love me if I [were]{.underline} broke?
+        * [Would]{.underline} you still love me if I [told]{.underline} you that I'm pregnant?
+        * How [would]{.underline} you react if your lover [ditched]{.underline} you to marry another person?
+        * Who [would]{.underline} you leave everything you own to if you [died]{.underline} tomorrow?
+        * What [would]{.underline} you do if you [lost]{.underline} your job?
+            * "What will you do if you lose your job?"보다 완곡한 표현
+        * [Would]{.underline} it be all right if I [gave]{.underline} Ryan a call?
+        * *Tears in heaven* - Eric Clapton
+        >
+        Would you know my name if I saw you in Heaven?\
+        Would you feel the same if I saw you in Heaven?\
+        Would you hold my hand if I saw you in Heaven?\
+        Would you help me stand if I saw you in Heaven?\
+        * What if he [were]{.underline} wrong?
+            * What would happen if he were wrong?
+            * What would you do if he were wrong?
+        * If I [were]{.underline} rich, I [would]{.underline} buy you whatever you want.
+        * If I [were]{.underline} a woman, I'[d]{.underline} be outraged.
+        * If I [were]{.underline} you, I [wouldn't]{.underline} worry about it.
+        * Things [would]{.underline} probably be different, of course, if I [were]{.underline} a woman. 
+        * Maybe it [would]{.underline} be easier if you [weren't]{.underline} doing it alone. I could help you unpack. 
+        * [Would]{.underline} it be all right if I [turned]{.underline} the radio off?
+            * 공손한 표현
+        * Even if you [brought]{.underline} me flowers every day, I still [wouldn't]{.underline} marry you.
+
+    * 시점이 '비과거'일 때의 예문
+        * If he [came]{.underline} tomorrow, he [could]{.underline} meet my sister.
+        * Even if he [offered]{.underline} you a million dollars, you [should]{.underline} still refuse to work for him.
+        * If i [could]{.underline} help you, I [would]{.underline}.
+
+        * If the sun [rises]{.underline} in the west tomorrow, ...
+            * 내일 해가 서쪽에서 뜰지, 아니면 동쪽에서 뜰지 모르는 경우
+        * If the sun [rose]{.underline} in the west tomorrow, ...
+            * 해가 동쪽에서 뜬다는 걸 아는 경우
+
+    * were to 용법
+        * be to 용법(앞으로 ~된다)
+        * 그럴 가능성이 전혀 없을 때 사용하는 미래표현
+            * If the sun [were to rise]{.underline} in the west tomorrow. 
+
+### 25%의 가능성
+* 0% 사실의 반대 ~ **25%** ~ 50% (단순 추측)
+* if + should: 혹시라도
+    * If you [fail]{.underline} this exam, you can always take it again next year.
+    * If you [should fail]{.underline} this exam, you can always take it again next year.
+    * If he [should]{.underline} show up, don't let him in!
+        * If he [happen to]{.underline} show up, don't let him in!
+    * If you [should]{.underline} meet Ryan, tell him to give me a call.
+        * If you [happen to]{.underline} meet Ryan, tell him to give me a call.
+    * If you [should]{.underline} see him, tell him to come to my office.
+        * If you [happen to]{.underline} see him, tell him to come to my office.
+
+    * if절에 should가 있다고 무조건 "혹시라도 ~"라고 생각은 금물
+        * I haven't decided if I [should go or not]{.underline}.
+
+* "혹시라도 ~"의 should는 주어와 자리바꿈 가능(그리고 if는 생략됨)
+    * If you [should]{.underline} have any questions about it, please feel free to call us.
+    * **=** [Should]{.underline} you have any questions about it, please feel free to call us.
+    
+    * [Should]{.underline} you wish to unsubscribe from any service in the future, please email us.
+
+### 상황에 따라
+* "대통령이 된다면, ~"
+    * 50% : If I become president, ...
+    * 25% : If I should become president, ...
+    * 0%  : If I became president, ...
+
+* "곧 남북통일이 된다면, ~"
+    * 50% : If the two Koreas are unified soon, ...
+    * 25% : If the two Koreas should be unified soon, ...
+    * 0%  : If the two Koreas were unified soon, ...
+    * 0%  : If the two Koreas were to be unified soon, ...
+
+## 과거의 세계
+### 단순 추측
+* 비과거의 '사실의 반대'와 과거의 '단순 추측'을 구별할 때는, if절 내용이 벌어지고 있는 **'시점'**, 그리고 **주절의 형태**를 볼 것 
+    * If I [was]{.underline} rude on the phone with you yesterday, I apologize.
+        * if절의 be동사는 인칭에 관계 없이 were을 쓰는 것이 원칙
+        * **최근** 인칭에 따라 was를 쓰는 경우도 있음
+    * If I [were]{.underline} rude, I'd apologize.
+    * If I [didn't change]{.underline} anything, you are correct.
+    * I am not sure if I [explained]{.underline} this very well. Hopefully others will be able to help, if I [did]{.underline} not.
+    * If it [was purchased]{.underline} within the last 14 days, we will happily refund the price you paid in full.
+    * If you [didn't exercise]{.underline} when you were younger, it could be dangerous to start when you're older.
+    * If you [didn't know]{.underline} him personally at school, you probably heard of him.
+    * If you [saw]{.underline} him yesterday, then he was here.
+
+    * If I Had One Chance to Tell You Something.
+        * 시점에 따라 해석이 바뀜 (과거 vs. 비과거)
+
+    * 문맥을 통해 문장의 기준 시점이 과거인지 현재인지 구분할 줄 알아야 함
+        * I missed my family, especially my mother, and I missed my other relatives, too. I wrote a lot of letters to my family, but still I couldn't fulfill the emptiness of my mind. I [expected]{.underline} things [would]{.underline} get better if I [made]{.underline} new friends here, but it was not so easy.
+        * Women [believed]{.underline} if they [got]{.underline} an advanced degree in business and [worked]{.underline} hard they [could]{.underline} become top managers of the company.
+
+### 사실의 반대
+* if절에 had + p.p.가 나오면 '과거 사실의 반대'
+    * If the weather [had been]{.underline} nice yesterday, I would have gone out.
+* 가능성도 없는 동작, 상황, 다시 말해 확실하지도 않은 상황
+    * 주절에 '덜 직선적'이고, '상황에 따라 유연하게 대처'할 수 있는 표현 사용
+    * 주절에 사용되는 단어들
+        * would: "~할 텐데, ~하려 했을 텐데" (현실은 아닌데)
+        * could[would be able to]: "~할 수 있는데, ~할 수 있었을 텐데" (현실은 아닌데)
+        * should[would have to]: "~해야 할 텐데, ~했어야 했는데" (현실은 아닌데)
+        * might[probably would]: "~일지 모르는데, ~이었을지 모르는데" (현실은 아닌데)
+    * 주절의 어감 비교
+        * I [will marry]{.underline} you tomorrow.
+        * I [would marry]{.underline} you tomorrow.
+            * 문맥에 따라 해석 달라짐
+                * 문장의 시점이 현재라면, 사실의 반대
+                * 문장의 시점이 과거라면, 단순 추측
+        * I [would have married]{.underline} you tomorrow.
+
+* if절이 '과거 사실의 반대'인 문장들
+    * If you [had arrived]{.underline} earlier, you [would have seen]{.underline} him.
+    * If I [hadn't run]{.underline} so fast, I [would surely have missed]{.underline} the train.
+    * If you [hadn't been]{.underline} driving so fast, the accident [would never have happened]{.underline}.
+    * It [could have been]{.underline} a lot worse if we [had had]{.underline} more rain.
+    * Things [might have gone]{.underline} a lot better if you [had kept]{.underline} a cool haed.
+    * '후회'의 어감: **only**
+        * If only I [had known]{.underline} where Ryan was, I [would have called]{.underline} him and [begged]{.underline} him to come home.
+    * if가 생략된 문장
+        * [Had]{.underline} it not [been]{.underline} for you, I [would have given up]{.underline} a long time ago.
+        * **=** If it had not been for you, ...
+
+## 혼합 가정
+* if절의 내용은 '과거 사실의 반대'를 가정하고, 주절은 '현재 사실의 반대'를 쓰는 것
+* 시제를 한 단계 당기고(과거 -> 비과거), would와 같이 약한 어감을 표현하는 단어 사용
+    * If you [hadn't spent]{.underline} so much money, we [would be]{.underline} better off now.
+    * If I [had done]{.underline} what he said, I [wouldn't be]{.underline} here now.
+    * If she [hadn't dumped]{.underline} me 10 years ago, she [would be]{.underline} my wife now.
+    * If you [hadn't mentioned]{.underline} it, I [would]{.underline} still [be]{.underline} in the dark.
+
+## would've[could've / should've / might've] + p.p.
+* '과거 사실의 반대' 가정법 주절에 나오는 형태
+* would[could / should / might] 다음에 완료표현이 나오면, '과거에 이루지 못했던 사실이 함축돼 있음'을 상기할 것
+    * would have + p.p. ~ 하려고 했었다 (그런데 안 했다)
+    * could have + p.p. ~ 할 수도[였을 수도] 있었다 (그런데 안 했다)
+    * should have + p.p. ~ 했어야 했다 (그런데 안 했다)
+    * might have + p.p. ~ 였을지도 모른다 (그런데 안 했다)
+* **if절 없이 주절만 사용될 수 있음**
+    * 주절은 가정법 공식의 일부로 받아들이지 말고, if절과 관계없이 그 자체로 인정할 것
+        * I'm sure your father [would've been]{.underline} proud of you.
+        * I [should've paid]{.underline} more attention to what was going on.
+        * It [could've been]{.underline} worse.
+        * We [couldn't or wouldn't have done]{.underline} it without you.
+        * **It was a glimpse of what my life [might've been]{.underline} like, had I taken the other path.**
+            * had I taken the other path.
+            * **=** If I had taken the other path.
+
+        * *Could've Been* - Tiffany
+        > 
+        The flowers you gave me\
+        Are just about to die\
+        When I think about\
+        What could've been\
+        It makes me want to cry\
+        Could've been so beautiful\
+        Could've been so right\
+        Could've been my lover    
+
+        * There is no 'would've should've could've'. Only did and didn't.
+            > 
+            이미 지나가버린 일을 놓고 이제 와서
+            "(~했더라면) 그렇게 했을 거라는(I would've done it) 둥,
+            그렇게 했어야 했다는(I shouldn't done it) 둥, 
+            그렇게 할 수 있었을 거라는(I could've done it) 둥
+            변명해봐야 소용없다. 결국 중요한 건 
+            했느냐 안 했느냐다."
+
+        * There are people who shoulda, coulda, woulda, And there are people who are glad they did. 
+            * kind of -> kinda
+            * would have -> would of -> woulda
+
+## wish
+### wish + to do
+* ~하고 싶다(formal)
+    * Where do you [wish to go]{.underline}?
+    * I don't [wish to see]{.underline} you again, and I mean it. 
+    * She [wished to get]{.underline} to know him better.
+
+    * 과거형 wished to do something보다는 wanted to do가 일반적
+
+* wish + 절(주어 + 동사)
+    * hope: 어느 정도 가능성이 있는 얘기
+    * wish: 현실적으로 불가능한 얘기
+    * wish 다음에 문장이 오면 얘기가 180도 달라짐
+    * 비과거의 희망사항이면 동사는 과거형
+    * 과거의 희망사항이면 동사는 과거완료
+        * Wish you [were]{.underline} here.
+        * I can't dance, but I wish I [could]{.underline}.
+        * I wish you [weren't]{.underline} so stuck up and [would]{.underline} listen to why people don't like this place.
+        * He keeps calling me several times a day, but I wish he [wouldn't]{.underline}.
+        * She sometimes wishes he [had never been born]{.underline}.
+        * I sometimes wish [I'd never been born]{.underline} at all.
+        * There are a few things I wish I [had known]{.underline} before I arrived.
+        * Ten things I wish I [had learned]{.underline} as a child.
+        * Things I wish I [had known]{.underline} when I got married.
+
+* ~에게 ~가 있기를 바라다
+    * I wish you a Merry Christmas and a Happy New Year.
+    * Wish me luck!
+    * I wish you all the best.
+    * He wished me every success.
+    * I wish you every happiness in your marriage.
+
+## if절 + will
+### will이 '의도, 의지, intention의 어감'일 때
+* "앞으로 ~하겠다", 약속, 결정
+* will(의지, 유언장), willing(~할 의지, 의사, 마음이 있는)
+* be willing to do something
+    * I will if you [will]{.underline}.
+    * I will buy this dress for you if you [will]{.underline} wear it.
+    * I will buy this dress for you if you [are willing to]{.underline} wear it.
+    * I'll buy this dress for you if you [promise]{.underline} to wear it.
+    * If you [will]{.underline} smoke, please do so outside using an ashtray - please do not throw butts on ground.
+    * If he [won't]{.underline} forgive me, what choice do I have?
+    * If he [refuses to]{.underline} forgive me, what choice do I have?
+    * We would really appreciate it if you [would]{.underline} take the time to come to this meeting.
+    * If you [wouldn't]{.underline} mind, I'd like to ask you a few questions about the issue.
+    * If you would follow me, please.
+
+    * [?]{.underline} If it will rain tomorrow, I will stay home. (어색한 표현)
+
+    * if절이 명사절로 사용될 경우
+        * I don't know if it [will]{.underline} rain tomorrow.
+        * A: Will you be seeing Ryan tonight?
+        * B: I'm not sure if I'll see him.
+
+### if절이 결과일 경우
+* if절이 '조건', 주절이 '결과'가 되는 것이 일반적
+    * If you can't come to see us next weekend, we'll come and visit you.
+    * If you finish the work by lunchtime, you can take the afternoon off.
+    * I will repeat that, if that [will]{.underline} help you understand it better. 
+    * If it [will]{.underline} save money, I'm for it.
+    * Just ignore him if that'[ll]{.underline} make you feel better.
+
+## if & when
+* "~할 때", "~라면"
+* when: certainty (확실)
+* if: probability (불확실)
+    * I'll buy you a drink [when]{.underline} I see you tomorrow.
+        * 이미 내일 만나기로 되어있음
+    * What's the first thing you do [when]{.underline} you get up in the morning?
+        * ? [If]{.underline} you get up on the morning? (일어날지 여부가 불확실한 사람)
+    * This will help him get back to sleep [if]{.underline} the baby wakes up at night.
+    * Give me a call [when]{.underline} Ryan gets home from school.
+        * [?]{.underline} Give me a call [if]{.underline} Ryan gets home from school.
+    * I'm going to call the police [if]{.underline} he's not back within an hour. (올 시간이 지났을 때)
+    * [If]{.underline} I don't pass this year, I'll try again next year.
+    * As with all software, it should be updated [if and when]{.underline} necessary.
+        * 업데이트를 해서 필요 없을 수도 있으니까(if), 업데이트 안 되는 소프트웨어는 없으니까(when)
+    * Forgive him [if and when]{.underline} Ryan decides to come back.
+        * 확실하지는 않지만 ~할 때, ~하면
+    * [If and when]{.underline} the president is ready to make an announcement, he will do so.
+    
+* if가 명사로 나올 때(불확실, 추측, 가능성)
+    * As this year draws to conclusion, many [ifs]{.underline} remain.
+    * He could be a star if his keens ever heal, but that's a big [if]{.underline}.
+    * It doesn't make sense to make speculations right now because there are too many [ifs]{.underline} and buts.
+        * but도 명사로 사용됨
+
+## even if & even thought
+* "비록 ~일지라도"
+* even if는 if를 강조하는 표현
+    * if절과 같이 생각
+    * '사실의 반대'와 단순 추측'
+        * [Even if]{.underline} wax the car, it still won't look shiny.
+        * I know he'll want to continue playing, [even if]{.underline} he gets injured.
+        * [Even if]{.underline} had some time for shopping, I wouldn't go out and buy shoes.
+        * [Even if]{.underline} I were a woman, I would not do it.
+* even though는 though 또는 although를 강조하는 표현
+    * even though 다음에 오는 내용은 엄연한 사실(직설법)
+        * [Even though]{.underline} I've waxed the car, it still doesn't look shiny.
+        * [Even though]{.underline} the injury was serious, he decided to continue playing.
+        * [Even though]{.underline} I had some time for shopping, I couldn't find the shoes I wanted.
+        * [Even though]{.underline} I am a woman, I will do it.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

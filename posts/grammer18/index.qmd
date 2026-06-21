@@ -1,0 +1,229 @@
+---
+title: "명사(관계사)"
+date: 2019-11-07
+categories: [English, Grammar]
+description: "형용사 역할을 수행하고, 형용사보다 길며, 명사 뒤에 위치"
+---
+
+## 관계사절
+* who, which, where, how 등 관계사가 앞에 나와서 이끌고 있는 절
+    * I recently read *[a book]{.underline}* [which was written by Stephen King]{.underline}.
+    * *[the umbrella]{.underline}* [which you bought for me]{.underline}
+    * *[the people]{.underline}* [who live next door]{.underline}
+    * *[a TV show]{.underline}* [that I like]{.underline}
+
+## 관계사의 종류
+* 선행사 = 관계사
+    * What is the name of [the new teacher]{.underline}? [He]{.underline} came here yesterday.
+    * **=** What's the name of *[the new teacher]{.underline}* [who]{.underline} came here yesterday?
+
+### 주어 역할
+* 관계사가 관계사절에서 주어 역할을 하는 경우
+    * What's the name of the new teacher [who]{.underline} came here yesterday?
+    * I can't find the book [which]{.underline} was here a minute ago.
+    * The people [that]{.underline} live next door will move out tomorrow.
+
+    | 선행사 | 관계사 |
+    | ------ | ------ |
+    | 사람   | who    |
+    | 사물   | which  |
+    | 만능   | that   |
+
+### 목적어 역할
+* 관계사가 관계사절에서 목적어 역할을 하는 경우
+    * He's the one [whom]{.underline} I was looking for.
+    * Have you seen the umbrella [which]{.underline} Ryan bought for me?
+    * Here's the book [that]{.underline} you asked for.
+
+    | 선행사 | 관계사 |
+    | ------ | ------ |
+    | 사람   | whom   |
+    | 사물   | which  |
+    | 만능   | that   |
+
+    * **관계대명사가 목적어 역할을 할 때에는 생략 가능**
+
+### 소유격 역할
+* whose
+    * I saw [a girl]{.underline}. [Her]{.underline} hair came down to her waist.
+    * **=** I saw a girl [whose]{.underline} hair came down to her waist.
+
+* of which
+    * She wrote a book. I don't remember the title of the book.
+    * **=** She wrote a book which I don't remember the title of.
+    * **=** She wrote a book of which I don't remember the title.
+        * 전치사를 관계사 앞으로 보낼 수 있음
+    * **=** She wrote a book the title of which I don't remember.
+        * '~의' 뜻을 갖는 of를 명사와 떼어놓는 경우는 거의 없음
+        * 명사 두 개, a book과 the title이 연달아 등장
+        * 이와 같을 때, 소유격 관계대명사가 나올 수 밖에 없음
+        * She wrote a book. I don't remember the title of the book.
+            * the title of the book → its title
+    * **=** She wrote a book whose title I don't remember.
+        * whose: the book's
+
+    * **whose + 명사 = the 명사 of which**
+
+### 부사 역할
+* when, where, why
+    * I'll never forget *[the day]{.underline}* [when]{.underline} I first saw you.
+        * I'll never forget [the day]{.underline}. I first saw you [on the day]{.underline}.
+            * 관계대명사 which: the day
+            * 관계부사 when: on the day
+
+        * I'll never forget *[the day]{.underline}* [when]{.underline} I first saw you.
+        * I'll never forget [when]{.underline} I first saw you.
+            * 시간을 나타내는 명사가 선행사로 사용되면, 보통 선행사를 생략
+        * I'll never forget *[the day]{.underline}* [that]{.underline} I first saw you.
+            * 만능관계대명사 that
+        * I'll never forget [the day]{.underline} I first saw you.
+            * **관계부사 생략**
+            * 가장 일반적인 문장
+        * I'll never forget *[the day]{.underline}* [which]{.underline} I first saw you [on]{.underline}.
+            * 관계대명사를 사용한 경우
+        * I'll never forget *[the day]{.underline}* [on which]{.underline} I first saw you.
+            * 전치사를 관계사 앞으로 이동시킴
+
+* how (방법)
+    * I like [the way]{.underline}. He talks [in the way]{.underline}.
+        * I like [the way]{.underline} [how]{.underline} he talks.
+            * 보통 위처럼 방법을 나타내는 명사 the way와 how는 같이 사용하지 않음
+        * **=** I like the way he talks.
+        * **=** I like how he talks.
+        * **=** I like the way that he talks.
+        * **=** I like the way in which he talks.
+            * in: ~식으로
+
+    * This is [the place]{.underline} [where]{.underline} you belong.
+        * This is the place. You belong to the place.
+    * I don't understand [the reason]{.underline} [why]{.underline} you are not happy with that.
+        * I don't understand the reason. You are not happy with that for the reason.
+
+* what (~인 것)
+    * 선행사가 필요 없는 관계사
+        * I liked [what]{.underline} he was wearing.
+            * 'the thing + which'
+            * 관계사가 선행사 역할까지 다 한 경우
+
+        * [What he said]{.underline} was true.
+        * The truth is [what you believe]{.underline}.
+
+        * That's [what I said]{.underline}.
+        * That's [what I'm talking about]{.underline}.
+        * This is [what you get when you mess with us]{.underline}.
+        * That's [what bothers me]{.underline}.
+
+* whatever (what 강조, ~인 것은 무엇이든지 전부)
+    * You can just write whatever you like in a blog.
+    * I'll do whatever it takes to win games.
+
+* which
+    * *[She got married again]{.underline}*, [which surprised everybody]{.underline}.
+        * 문장 전체를 수용
+    * Last night Micheal Jordan scored *[32 points]{.underline}*, [which was nothing unusual]{.underline}.
+
+## 관계사 앞에 찍혀 있는 콤마
+* 명사를 보충 설명하는 서술적 용법
+    * She is very nice.
+* 명사가 어떤 명사인지 분명히 밝혀주는 한정적 용법
+    * That is a nice car.
+* **형용사의 서술적 용법이 관계사에서의 계속적 용법**
+    * 계속적 용법은 '선행사를 보충 설명'
+* **형용사의 한정적 용법은 관계사에서의 제한적 용법**
+    * 제한적 용법은 '어떤 명사인지 그 정체를 분명히 밝힘'
+        * a pencil
+        * a red pencil (한정)
+
+* 제한적 용법 - 선행사를 수식하는 관계사절
+    * Do you like *[the pen]{.underline}* [which I gave you]{.underline}?
+    * He has *[two sons]{.underline}* [who are doctors]{.underline}. 
+
+* 계속적 용법 - 선행사를 설명하는 관계사절
+    * He has *[two sons]{.underline}*, [who are doctors]{.underline}.
+
+* 서울을 설명해야 할까? 제한해야 할까?
+    * Have you ever been to Seoul which is the capital of Korea? 
+        * **서울이 여러 개 있는 것이 아니기에, 제한할 필요 없음**
+    * Have you ever been to Seoul, which is the capital of Korea? 
+        * 서울을 설명하는 것이 훨씬 자연스러움
+
+* 경기도 광주? 광주광역시?
+    * Have you ever been to Gwangju which is in Gyeonggi Province?
+        * **=** Have you ever been to Gwangju in Gyeonggi Province?
+
+* **어떤 명사에 대해 단순히 정보를 추가하는 차원이면 콤마가 있어야 하고, 그게 아니라 어떤 명사인지 분명히 밝혀줘야 할 때는 콤마가 없어도 됨**
+    * He has two sons who are doctors.
+    * He has two sons, who are doctors.
+
+## 관계사 이해하기
+* **선행사=관계사**
+
+### 관계사 앞에 전치사가 없을 때
+* What's the name of [the new teacher]{.underline} *[who]{.underline}* came yesterday?
+    * ... the new teacher came yesterday.
+* I can't find [the book]{.underline} *[which]{.underline}* was here a minute ago.
+* [The people]{.underline} *[that]{.underline}* live next door will move out tomorrow.
+* Have you seen [the umbrella]{.underline} *[which]{.underline}* you bought for me?
+* Here's [the book]{.underline} *[that]{.underline}* you asked for.
+* I've never forget [the day]{.underline} *[when]{.underline}* I first saw you.
+* This is [the place]{.underline} *[where]{.underline}* you belong.
+* I don't understand [the reason]{.underline} *[why]{.underline}* you are not happy with that.
+
+### 전치사 + 관계사
+* 선행사를 찾아 관계사 자리에 넣고, 일반적으로 알고 있는 전치사의 뜻으로 곧바로 이해\
+(in: ~에서, for: ~을 위해, by: ~에 의해, ...)
+    * This is [the house]{.underline} *[in which]{.underline}* I was born.
+        * ... in the house I was born.
+    * There are [several reasons]{.underline}, *[for which]{.underline}* I can't go with you.
+    * He is [the man]{.underline} *[for whom]{.underline}* I would die.
+
+* 곧바로 이해가 잘 안 될 경우, '전치사 + 관계사'의 형태를 머릿속에 넣고, 관계사절을 읽으면서 앞에 있던 전치사와 결합되는 단어를 관계사절에서 찾아 이해
+    * He threw away [the scripts]{.underline} *[on which]{.underline}* I've been [working]{.underline} for three days.
+    * This is [the chance]{.underline} *[of which]{.underline}* I've been [dreaming]{.underline} all my life.
+    * Have you ever thought about [a possible disaster]{.underline} *[ in which]{.underline}* what you're doing now could [result]{.underline} if you keep on doing it?
+    * Is this [the car]{.underline} *[on which]{.underline}* you spent all you have?
+
+## 용법
+### 목적격 관계대명사 생략
+* He's the one [whom] I was looking for.
+* Have you seen the umbrella [which] Ryan bought for me?
+* Here's the book [that] you asked for.
+
+### 선행사는 대부분 3인칭 명사의 몫
+* I, who work for a bank, am 32 years old.
+    * 격식 갖춘 문체
+    * **=** I am 32 years old and work for a bank.
+
+* It is [I]{.underline} who am responsible for this project.
+    * 강조구문
+    * **=** It's [me]{.underline} that's responsible for this project.
+    * **=** I am the one [person] who's responsible for this project.
+
+### whom이 점점 who로 대체되고 있음
+* A: Whom did you kill?
+    * 격식을 차려야 하는 문어체
+* B: Who did you kill?
+    * 구어체
+
+* From whom did you get that?
+    * **=** Whom did you get that from?
+    * **=** Who did you get that from?
+* Who are you going to take to the party?
+* Who did you vote for?
+
+* This is the man whom I was talking about last night.
+* This is the man about whom I was talking last night.
+* This is the man ~~about who~~ I was talking last night.
+    * 전치사 + who는 어색함
+    * 전치사가 문장 뒤에 있는 상태에서는 목적격 whom 대신 who를 써도 됨(구어체)
+* This is the man who I was talking about last night.
+* This is the man that I was talking about last night.
+* This is the man ~~about that~~ I was talking about last night.
+    * 전치사 + that은 어색함
+* This is the man I was talking about last night.
+    * **가장 이상적인, 일반적인 문장**
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

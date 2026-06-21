@@ -1,0 +1,55 @@
+---
+title: "명령문"
+date: 2019-10-15
+categories: [English, Grammar]
+description: "명령, 지시, 요청, 부탁"
+---
+
+## 글로 써 있는 명령문
+* Click here.
+    * Click, please. 와 같이 글로써 명령문을 작성할 때, 대화할 때처럼 please를 사용하지 않음
+* 명령문은 '글'보다는 '말'을 할 때 더 민감하게 반응
+> 
+Terminator: I need your clothes, boots, and your motorcycle!\
+Biker     : You forgot to say please.
+
+
+## 일반적인 명령문
+* 동사 원형으로 시작되는 문장
+    * Be quiet.
+    * Shut up and go to your room.
+    * Ok, everybody, listen up!
+        * **=** Listen up, everybody!
+
+    * Nobody move.
+    * Somebody answer the phone.
+        * 주어가 nobody, somebody인데도 동사 move나 answer에 s가 없는 것은 명령문이기 때문
+
+    * Don't talk back to me like that.
+    * Don't [you]{.underline} talk back to me like that.
+        * you를 넣으면 더 강해짐 (강조)
+    * Don't [you ever]{.underline} talk back to me like that.
+        * ever을 넣으면 한층 더 강해짐 (강조)
+
+    * Please, step out of the car, sir?
+    * Can I see you in my office in ten minutes, please?
+    * Sir, do you have any change?
+    * Please, would you open your suitcase, sir?
+    * I'm [trying to]{.underline} watch TV, if you don't mind.
+        * trying to, 짜증의 뉘앙스
+
+    * Love takes time. [You don't want]{.underline} to marry a stranger. [You want to]{.underline} make sure that you have things in common.
+        * want(should의 어감)
+        * I know you don't want to marry someone you don't love.
+            * want(원하다의 어감)
+
+    * A: Let me go before you hurt me any more!
+    * B: You're not going anywhere until you listen to what I have to say.
+
+    * You're not wearing that skirt to school.
+    * You're coming with me whether you like it or not.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

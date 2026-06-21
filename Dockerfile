@@ -23,4 +23,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 EXPOSE 4444
 
-CMD ["quarto", "preview", "--host", "0.0.0.0", "--port", "4444", "--no-browser"]
+# Clear any stale preview lock (from an unclean prior exit) before starting.
+CMD ["sh", "-c", "rm -rf .quarto/preview && exec quarto preview --host 0.0.0.0 --port 4444 --no-browser"]

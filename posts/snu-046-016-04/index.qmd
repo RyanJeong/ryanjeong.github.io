@@ -1,0 +1,13 @@
+---
+title: "[WIP]SNU 046.016 컴퓨터과학이 여는 세계(Computational Civilization) Part IV"
+date: 2018-06-22
+categories: [Computer, SNU, SNU 046.016, WIP]
+description: "그 도구의 응용"
+---
+
+*** 
+
+* References: 
+    * 이광근. (2015). *컴퓨터과학이 여는 세계*. 인사이트.
+    * 이광근. (2016). *SNUON_컴퓨터과학이 여는 세계* [video file]. Retrieved May 27, 2018, from [https://www.youtube.com/watch?v=HTWSPoDLmHI&list=PL0Nf1KJu6Ui7yoc9RQ2TiiYL9Z0MKoggH](https://www.youtube.com/watch?v=HTWSPoDLmHI&list=PL0Nf1KJu6Ui7yoc9RQ2TiiYL9Z0MKoggH).
+    * 이광근. (2016). *SNU 046.016 컴퓨터과학이 여는 세계(Computational Civilization) Part IV* [PowerPoint slides]. Retrieved May 27, 2018, from [http://ropas.snu.ac.kr/~kwang/046.016/15/4h4in1.pdf](http://ropas.snu.ac.kr/~kwang/046.016/15/4h4in1.pdf).

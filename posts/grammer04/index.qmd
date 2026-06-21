@@ -1,0 +1,163 @@
+---
+title: "복합시제(현재완료)"
+date: 2019-10-04
+categories: [English, Grammar]
+description: "과거의 동작 + 현재의 의미"
+---
+
+## 현재완료
+* **과거의 동작 + 현재의 의미**
+    * A: Do you have time?
+    * B: I [have lost]{.underline} my watch.
+    * C: ~~I lost my watch.~~
+
+### 단순과거 : 현재완료 = 점 : 선
+* A: I [saw]{.underline} him an hour [ago]{.underline}.
+* B: I'[ve been]{.underline} here [since]{.underline} January.
+
+* 말하고 있는 시점이 오후 두 시이고, 아침에 그를 본 적이 없는 상황? (점)
+    * I [didn't see]{.underline} him this morning.
+* 말하고 있는 시점이 아직 오전이고, 아침에 그를 본 적이 없는 상황? (선)
+    * I [haven't seen]{.underline} him this morning.
+
+### 단순과거 vs. 현재완료
+* A: Did you have lunch?
+* B: Yes, I [had]{.underline} lunch.
+
+* A: Are you hungry now?
+* B: No, I'[ve just had]{.underline} lunch.
+
+* 단순과거는 과거의 **분명**한 시점이 나타나지만, 현재완료는 **과거의 한 시점과 현재를 연결**하는 부사 등장
+* 현재완료에서 중요한 것은 **현재의 의미**
+    * A: What time is it?
+    * B: I [have lost]{.underline} my watch.
+
+    * I [have lived]{.underline} here [since]{.underline} March 1.
+    * I [have lived]{.underline} here [for]{.underline} two months.
+
+    * She'[s gone]{.underline} to bed. 
+        * She isn't here now.
+    * I'[ve broken]{.underline} my ankle.
+        * My ankle is broken now.
+    * We'[ve bought]{.underline} a new house.
+        * We have a new house now.
+    * [Have]{.underline} you [seen]{.underline} Ryan?
+        * Where is he now?
+
+    * A: My grandmother did a lot for me.
+    * B: My grandmother has done a lot for me.
+        * 할머니께서 돌아가신 경우라면, 말이 안됨 
+    
+    * They have given a lot of support to the project.
+        * 프로젝트가 끝난 경우라면, They gave a lot of support to the project.
+
+* just: **방금 전에**
+    * 현재완료 문장에 just가 등장하면 과거에 시작된 행동이 이미 끝난 상태임을 암시
+        * They'[ve just arrived]{.underline}.
+            * They're here now.
+        * I'[ve just had]{.underline} lunch.
+            * I'm not hungry now.
+
+* 현재완료는 과거의 분명한 시점과 어울리지 않음
+    * I saw him [yesterday]{.underline}.
+    * I didn't go there [last year]{.underline}.
+    * What did you do [last night]{.underline}?
+    * [When]{.underline} did they arrive?
+
+* 현재완료는 과거의 불분명한 시점과 어울림
+    * today, this week, this month, in my life, ever, never
+        * I have made a big mistake ~~five weeks ago~~ [weeks ago]{.underline}.
+        * I've been to Paris twice [in my life]{.underline}.
+
+* **단순과거**와 불분명한 시점들은 어울림
+    * ever, never, already, yet, before, just
+        * Judy [just]{.underline} called.
+            * Judy has [just]{.underline} called.
+        * Did you eat [already]{.underline}?
+            * Have you eaten [already]{.underline}?
+        * I didn't call him [yet]{.underline}.
+            * I haven't called him [yet]{.underline}.
+        * Did you ever see anything like this [before]{.underline}?
+            * Have you ever seen anything like this [before]{.underline}?
+
+## 완료 진행형
+* **과거의 동작이 현재까지 진행중**
+
+* 현재완료진행 시제는 과거에 시작한 상황이나 동작이 현재까지 계속됨
+    * I'[ve been working]{.underline} all day.
+    * Sorry. I'm late. [Have]{.underline} you [been waiting]{.underline} long?
+        * 만날 대상이 나타난 상태이므로, 더 이상 waiting 상태는 아님
+
+* 과거완료진행 시제는 현재완료진행 시제에서 하나씩 과거로 옮김
+    * I was very tired then. I [had been working]{.underline} all day.
+
+* 완료 진행형에는 **계속**의 의미를 담은 for, since가 자주 사용됨
+    * I'[ve been working]{.underline} for the company [for]{.underline} three years.
+    * It'[s been raining]{.underline} since last Monday.
+
+### 현재완료 vs. 현재완료진행
+* A: I'[ve been reading]{.underline} your book.
+* B: I'[ve read]{.underline} your book.
+
+* A: I'[ve been painting]{.underline} the room.
+* B: I'[ve painted]{.underline} the room.
+
+* A: I'[ve been living]{.underline} here all my life. (temporary)
+    * I've been living here [for a year]{.underline}.
+* B: I'[ve lived]{.underline} here all my life. (permanent)
+
+* A: I [have been working]{.underline} in this office for [two hours]{.underline} now. (동작)
+* B: I [have worked]{.underline} in this office for [two years]{.underline} now. (상태)
+
+* A: How long have you been playing the guitar?
+* B: 2 years.
+
+* A: How long have you played the guitar?
+* B: Since 12 years old.
+
+## 과거의 의미(형태)
+* 현재완료에서 중요한 것은 현재의 의미이지만, 과거의 의미로 사용하기 위해 **형태**만을 빌리는 경우
+
+### 추측의 조동사 뒤
+* may: 일반 추측
+    * He [may]{.underline} be rich. (~일 것이다)           
+    * He [may have been]{.underline} rich. (~였을 것이다.)
+
+* must: 강한 긍정의 추측
+    * He [must]{.underline} be rich. (~임에 틀림없다)
+    * He [must have been]{.underline} rich. (~였음에 틀림없다.)
+
+* can't: 강한 부정의 추측
+    * He [can't]{.underline} be rich. (~일 리 없다)
+    * He [can't have been]{.underline} rich. (~였을 리 없다.)
+
+### 가정법 과거완료의 주절
+* If I had come in time, I [could have seen]{.underline} him.
+* If you had been careful, you [would't have said]{.underline} that.
+
+### 부정사
+* 상대시제가 현재면 단순 부정사, 과거면 완료 부정사
+    * It [seems]{.underline} that he [is]{.underline} rich. (절대시제: 현재 / 상대시제: 현재)
+        * He seems [to be]{.underline} rich.
+    * It [seems]{.underline} that he [was]{.underline} rich. (절대시제: 과거 / 상대시제: 과거)
+        * He seems [to have been]{.underline} rich.
+    * It [seemed]{.underline} that he [was]{.underline} rich. (절대시제: 과거 / 상대시제: 현재)
+        * He seemed [to be]{.underline} rich.
+    * It [seemed]{.underline} that he [had been]{.underline} rich. (절대시제: 대과거 / 상대시제: 과거)
+        * He seemed [to have been]{.underline} rich.
+
+### 단순 동명사와 완료 동명사
+* 상대시제가 현재면 단순 동명사, 과거면 완료 동명사
+    * I [am]{.underline} proud that I [am]{.underline} your student.
+        * I [am]{.underline} proud of [being]{.underline} your student.
+    * I [am]{.underline} proud that I [was]{.underline} your student.
+        * I [am]{.underline} proud of [having been]{.underline} your student.
+    * I [was]{.underline} proud that I [was]{.underline} your student.
+        * I [was]{.underline} proud of [being]{.underline} your student.
+    * I [was]{.underline} proud that I [had been]{.underline} your student.
+        * I [was]{.underline} proud of [having been]{.underline} your student.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.

@@ -1,0 +1,25 @@
+---
+title: "복합시제(과거진행)"
+date: 2019-10-02
+categories: [English, Grammar]
+description: "과거의 어느 한 시점에서 어떤 상황이나 동작이 진행되고 있는 경우"
+---
+
+## '과거' 그리고 '진행'
+* 과거의 어느 한 시점에서 어떤 **상황**이나 **동작**이 진행되고 있는 경우
+    * I [was watching]{.underline} TV when you called me last night.
+    * I don't know. I [wasn't listening]{.underline}.
+    * What [were]{.underline} you [doing]{.underline} at three o'clock?
+
+## always
+* When he worked here, Ryan [was always making]{.underline} mistakes.
+
+## 공손한 표현 (iii)
+* I [was wondering]{.underline} if you could help me out.
+* I [was hoping]{.underline} we could dance together.
+* I [was hoping]{.underline} we could have dinner together.
+
+*** 
+
+* Reference: 
+    * 오성호. (2006). *Again! 뒤집어본 영문법*. 김영사.
